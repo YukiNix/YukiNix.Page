@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 请您在FreeBSD上协助尝试Logseq
-date: 2024-10-27 T0:00:00 +08:00
+date: 2024-12-27 T0:00:00 +08:00
 categories: posts
 ---
 
