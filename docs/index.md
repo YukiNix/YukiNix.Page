@@ -10,7 +10,7 @@ layout: home
 <!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
 <marquee>Marry Christmas and happy new year. </marquee>
-<marquee>处于安全考量, Liaison(联络站)停止服务啦. 暂时请依赖邮件通信吧. </marquee>
+<marquee>出于安全考量, Liaison(联络站)停止服务啦. 暂时请依赖邮件通信吧. </marquee>
 <marquee>本站地址已经变更为www.nixyuki.com, 请读者留意.</marquee>  
 
 <!-- {% include SearchEngine.html %} -->
