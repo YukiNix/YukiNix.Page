@@ -26,16 +26,22 @@ permalink: /about/
 2.Radio (无线电):  
 
 &emsp;CALL (呼号): BG2LFQ (Bravo, Golf, Two, Lima, Foxtrot, Quebec)  
+&emsp;QTH(Maidenhead Locator System) (台站地址, 梅登黑德定位系统): PM00/PM01;  
+&emsp;TIME (可能的通联时间): 02:00-8:00 UTC (协调世界时);  
 &emsp;========  
-&emsp;&emsp;BAND (频段): UHF (特高频);  
-&emsp;&emsp;MODE (模式): WBFM (宽带调频);  
+&emsp;2.1.Main Freq (主要频率):  
+&emsp;&emsp;BAND (频段): VHF;  
+&emsp;&emsp;MODE (模式): NBFM (窄带调频);  
+&emsp;&emsp;FREQ (频率): 144.445MHz;  
+&emsp;&emsp;DCS (数字编码静噪代码): D445(N);  
+&emsp;========  
+&emsp;2.2.Secondary Freq (次要频率):  
+&emsp;&emsp;BAND (频段): UHF;  
+&emsp;&emsp;MODE (模式): NBFM (窄带调频);  
 &emsp;&emsp;FREQ (频率): 434.445MHz;  
-&emsp;&emsp;T-CTCS (发射模拟亚音): 77.0Hz;  
-&emsp;&emsp;R-CTCS (接收模拟亚音): 77.0Hz;  
-&emsp;&emsp;QTH(Maidenhead Locator System) (台站地址, 梅登黑德定位系统): PM00/PM01;  
-&emsp;&emsp;TIME (可能的通联时间): 02:00-8:00 UTC (协调世界时);  
+&emsp;&emsp;DCS (数字编码静噪代码): D445(N);  
 &emsp;========  
-&emsp;&emsp;ATTENTION (注意): Always QRT when I'm boring (不保证随时执守);  
+&emsp;ATTENTION (注意): Only QRT when I'm boring (不保证随时执守);  
 
 3.IM Software (即时通讯工具):  
 
