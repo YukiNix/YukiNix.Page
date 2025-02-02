@@ -27,12 +27,12 @@ permalink: /about/
 
 &emsp;CALL (呼号): BG2LFQ (Bravo, Golf, Two, Lima, Foxtrot, Quebec)  
 &emsp;========  
-&emsp;&emsp;BAND (频段): VHF (特高频);  
+&emsp;&emsp;BAND (频段): UHF (特高频);  
 &emsp;&emsp;MODE (模式): WBFM (宽带调频);  
-&emsp;&emsp;FREQ (频率): 144.655MHz;  
+&emsp;&emsp;FREQ (频率): 434.445MHz;  
 &emsp;&emsp;T-CTCS (发射模拟亚音): 77.0Hz;  
 &emsp;&emsp;R-CTCS (接收模拟亚音): 77.0Hz;  
-&emsp;&emsp;QTH(Maidenhead Locator System) (台站地址, 梅登黑德定位系统): PM01;  
+&emsp;&emsp;QTH(Maidenhead Locator System) (台站地址, 梅登黑德定位系统): PM00/PM01;  
 &emsp;&emsp;TIME (可能的通联时间): 02:00-8:00 UTC (协调世界时);  
 &emsp;========  
 &emsp;&emsp;ATTENTION (注意): Always QRT when I'm boring (不保证随时执守);  
