@@ -56,11 +56,14 @@ permalink: /about/
 &emsp;Denote new phone number with (定义新电话号码为): $+86-aqq-rstu-vwxy$;  
 &emsp;========  
 &emsp;A. Method(方法A)  
-&emsp;&emsp;Every digits transfor formula (每位数字变换规则): $y=x(m,n)=n\times (x+k)$, $y$ only reserves smallest digit (y 仅保留最小位);  
+&emsp;&emsp;Every digits transfor formula (每位数字变换规则): $y=x(m,n)=[(x+m) \times n] \bmod 10$;  
 &emsp;&emsp;New phone number (新电话号码): $+86-a(0,1)b(6,3)b(6,3)-c(9,4)d(4,7)e(6,2)f(1,1)-g(2,7)h(9,8)i(4,1)j(4,3)$;  
 &emsp;========  
 &emsp;B. Method(方法B)  
-&emsp;&emsp;$\begin{vmatrix}q & r & s \\ t & u & v \\ w & x & y \end{vmatrix} = \frac{1}{522} \cdot \begin{vmatrix}b & c & d \\ e & f & g \\ h & i & j \end{vmatrix} \cdot \begin{vmatrix}431 & 189 & -12 \\ -78 & 162 & 288 \\ 271 & -81 & 30 \end{vmatrix} $;  
+&emsp;&emsp;
+$$
+\begin{vmatrix}q & r & s \\ t & u & v \\ w & x & y \end{vmatrix} = \frac{1}{522} \cdot \begin{vmatrix}b & c & d \\ e & f & g \\ h & i & j \end{vmatrix} \cdot \begin{vmatrix}431 & 189 & -12 \\ -78 & 162 & 288 \\ 271 & -81 & 30 \end{vmatrix} 
+$$  
 &emsp;========  
 &emsp;Strangers are not allowed, mail first (陌生人不可用, 请先邮件联系);  
 &emsp;&emsp;4.1.SMS(短讯息): Only for emergency message (仅接收必要的紧急通告);  
