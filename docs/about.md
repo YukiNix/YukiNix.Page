@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About Me
+mathjax: true
 permalink: /about/
 ---
 
 {% include JavaScripts.html %}
+{% include mathjax.html %}
 
 <h3>如果反复尝试却联系不上我:</h3>  
 
