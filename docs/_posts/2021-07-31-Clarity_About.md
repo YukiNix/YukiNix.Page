@@ -34,3 +34,9 @@ categories: posts
 &emsp;&emsp;  
 <p align="right">UMRAY</p>
 <p align="right">2021.07.31</p>
+
+**本网站不对欧盟用户提供服务.**  
+
+&emsp;&emsp;  
+<p align="right">Yuki N.</p>
+<p align="right">2025.09.07</p>

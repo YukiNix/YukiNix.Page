@@ -27,23 +27,8 @@ permalink: /about/
 
 2.Radio (无线电): CALL Sign is changing(呼号正在申请迁移)  
 
-&emsp;CALL (呼号): BG2LFQ (Bravo, Golf, Two, Lima, Foxtrot, Quebec)  
+&emsp;CALL (呼号): BI4AEI  
 &emsp;TIME (可能的通联时间): 02:00-8:00 UTC (协调世界时);  
-&emsp;========  
-&emsp;2.1.Main Freq (主要频率):  
-&emsp;&emsp;BAND (频段): VHF;  
-&emsp;&emsp;MODE (模式): NBFM (窄带调频);  
-&emsp;&emsp;FREQ (频率): 144.445MHz;  
-&emsp;&emsp;DCS (数字编码静噪代码): D445(N);  
-&emsp;QTH(Maidenhead Locator System) (台站地址, 梅登黑德定位系统): PM00/PM01;  
-&emsp;========  
-&emsp;2.2.Secondary Freq (次要频率): Not staying when station in QTH of Main Freq (台站在主要频率所载明区域内不使用此频率)  
-&emsp;&emsp;BAND (频段): UHF;  
-&emsp;&emsp;MODE (模式): NBFM (窄带调频);  
-&emsp;&emsp;FREQ (频率): 434.445MHz;  
-&emsp;&emsp;DCS (数字编码静噪代码): D445(N);  
-&emsp;========  
-&emsp;ATTENTION (注意): Only QRT when I'm boring (不保证随时执守);  
 
 3.IM Software (即时通讯工具):  
 
@@ -81,4 +66,4 @@ $$
 春祉  
 
 <p align="right">Yuki N.</p>
-<p align="right">2025.02.06</p>
+<p align="right">2025.09.07</p>
