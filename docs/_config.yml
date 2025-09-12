@@ -16,7 +16,7 @@
 title: Yuki Nix(禰夕・有希)
 email: nixyuki@outlook.com
 description:  # this means to ignore newlines until "baseurl:"
-  禰夕・有希 的主页，目前不知道会用来干什么.
+  禰夕・有希|追问概念的精确解.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.nixyuki.com" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
