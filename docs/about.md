@@ -84,7 +84,7 @@ $$
 &emsp;&emsp;名称: Yuki Nix(禰夕・有希)  
 &emsp;&emsp;地址: https://www.nixyuki.com  
 &emsp;&emsp;描述(如果需要): 追问概念的精确解.  
-&emsp;&emsp;徽记(如果需要): http://www.nixyuki.com/include/logo_w.jpg  
+&emsp;&emsp;徽记(如果需要): https://www.nixyuki.com/include/logo_w.jpg  
 &emsp;&emsp;描述(如你需要英文版本): In pursuit of the precise resolution of concepts.  
 
 > #### 注意事项 ####  
