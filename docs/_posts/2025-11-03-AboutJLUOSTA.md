@@ -14,7 +14,7 @@ categories: posts
 &emsp;&emsp;下面这个徽记是所有成员集思广益的成果(原始文件已经丢失), 这里作为对大家齐心协力过的纪念.  
 
 <p style="text-align:center;">
-<img src="../include/jluosta/jluosta_logo.jpg" alt="JLU OSTA 徽记" style="width:40%; height:auto;"/>
+<img src="/include/jluosta/jluosta_logo.jpg" alt="JLU OSTA 徽记" style="width:40%; height:auto;"/>
 </p>
 <!-- 
 ![JLU OSTA 徽记](../include/jluosta/jluosta_logo.jpg){:class="img-responsive"}   -->
