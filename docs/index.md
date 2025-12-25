@@ -10,8 +10,8 @@ layout: home
 <!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
 <marquee>等待着谁能够将我的心房轻轻叩击, 即使是你也仅仅驻足了片刻便离去.</marquee>
+<marquee>祝大家 2025-2026 年末年始的诸节快乐.</marquee>  
 <marquee>出于安全考量, Liaison(联络站)停止服务啦. 暂时请依赖邮件通信吧.</marquee>
-<marquee>本站地址已经变更为www.nixyuki.com, 请读者留意.</marquee>  
 
 <!-- {% include SearchEngine.html %} -->
 {% include ToLiaison.html %}
