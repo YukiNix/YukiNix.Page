@@ -15,7 +15,8 @@ layout: home
 <!-- {% include SearchEngine.html %} -->
 {% include ToLiaison.html %}
 
-快捷链接: &emsp; [网站更新记录](https://github.com/YukiNix/YukiNix.Page/commits/main "跳转到网站更新记录") &emsp; [标准化生活项目](/posts/2022/02/02/StandardLife.html "标准化生活项目入口") &emsp; [全部笔记目录](/posts/2022/01/24/Notes.html "笔记目录入口") &emsp; [歌单分享页面](/posts/2021/12/22/MusicShare.html "歌单页面") &emsp; [我的GPG公钥](/include/YukiNix_GPGPub.asc)  
+快捷链接: &emsp; [网站更新记录](https://github.com/YukiNix/YukiNix.Page/commits/main "跳转到网站更新记录") &emsp; [标准化生活项目](/posts/2022/02/02/StandardLife.html "标准化生活项目入口") &emsp; [全部笔记目录](/posts/2022/01/24/Notes.html "笔记目录入口") &emsp; [歌单分享页面](/posts/2021/12/22/MusicShare.html "歌单页面")  
+<!-- [我的GPG公钥](/include/YukiNix_GPGPub.asc)   -->
 
 友情链接: &emsp; [凉宫春日应援团](https://haruyuki.cn/) &emsp; [Lain Wiki](https://lain.wiki/) &emsp; [Farthing](https://farthing.xyz/) &emsp; [Stomatra](https://rinyuki.com/) &emsp; [Xiaomage's Blog](https://blog.xmgspace.me/) &emsp; [枫林灯语](https://blog.mfwt.top) &emsp; [SheepChef Blog](https://shef.cc) &emsp; [BH7GUL的小世界](https://blog.bh7gul.top) &emsp; [吾 之 归 处](https://monkeyiu.icu) &emsp; [Honaisu](https://www.denvoshome.xyz/) &emsp; [zBlog](https://zzzhxxx.top) &emsp; [祈杰のblog](https://qijieya.cn/) &emsp; [Honesty Blog](https://blog.hehouhui.cn/) &emsp; [紫东的博客](https://wzd73.wordpress.com/)  
 &emsp; &emsp; 如果不嫌弃的话, 欢迎与我交换友情链接. 请通过右上角 About 页面了解相关信息呐.  
