@@ -9,13 +9,13 @@ layout: home
 
 <!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
-<marquee>祝大家 2025-2026 年末年始的诸节快乐.</marquee>  
 <marquee>等待着谁能够将我的心房轻轻叩击, 即使是你也仅仅驻足了片刻便离去.</marquee>  
+<marquee>Liaison(联络站) 重新开放了.</marquee>  
 
 <!-- {% include SearchEngine.html %} -->
 {% include ToLiaison.html %}
 
-快捷链接: &emsp; [网站更新记录](https://github.com/YukiNix/YukiNix.Page/commits/main "跳转到网站更新记录") &emsp; [禰夕百本(书架)](https://www.nixyuki.com/posts/2026/03/11/BookShelf.html "书单页面") &emsp; [标准化生活项目](/posts/2022/02/02/StandardLife.html "标准化生活项目入口") &emsp; [全部笔记目录](/posts/2022/01/24/Notes.html "笔记目录入口") &emsp; [歌单分享页面](/posts/2021/12/22/MusicShare.html "歌单页面")  
+快捷链接: &emsp; [网站更新记录](https://github.com/YukiNix/YukiNix.Page/commits/main "跳转到网站更新记录") &emsp; [禰夕百本(书架)](/posts/2026/03/11/BookShelf.html "书单页面") &emsp; [标准化生活项目](/posts/2022/02/02/StandardLife.html "标准化生活项目入口") &emsp; [全部笔记目录](/posts/2022/01/24/Notes.html "笔记目录入口") &emsp; [歌单分享页面](/posts/2021/12/22/MusicShare.html "歌单页面")  
 <!-- [我的GPG公钥](/include/YukiNix_GPGPub.asc)   -->
 
 友情链接: &emsp; [凉宫春日应援团](https://haruyuki.cn/) &emsp; [Lain Wiki](https://lain.wiki/) &emsp; [Farthing](https://farthing.xyz/) &emsp; [Stomatra](https://rinyuki.com/) &emsp; [Xiaomage's Blog](https://blog.xmgspace.me/) &emsp; [枫林灯语](https://blog.mfwt.top) &emsp; [SheepChef Blog](https://shef.cc) &emsp; [BH7GUL的小世界](https://blog.bh7gul.top) &emsp; [吾 之 归 处](https://monkeyiu.icu) &emsp; [Honaisu](https://www.denvoshome.xyz/) &emsp; [zBlog](https://zzzhxxx.top) &emsp; [祈杰のblog](https://qijieya.cn/) &emsp; [Honesty Blog](https://blog.hehouhui.cn/) &emsp; [紫东的博客](https://wzd73.wordpress.com/)  
