@@ -34,7 +34,7 @@ permalink: /about/
 &emsp;&emsp;这是一个只供你与我连结的终端界面, 也是从此处开始的最方便的联络工具. 若你担心, 此界面也提供深层网络入口.  
 
 &emsp;&emsp;**公共互联网**: [https://liaison.nixyuki.com](https://liaison.nixyuki.com "联络站地址");  
-&emsp;&emsp;**深层网络**: [http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion](http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion "联络站 Onion 地址")  
+&emsp;&emsp;**Onion**: [http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion](http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion "联络站 Onion 地址")  
 &emsp;&emsp;**注意**: 这是我自己的设计, 并没有部署在公共或商业设施上. 如果它下线了, 请不要犹豫地切换到别的方式.  
 
 <h3>电子邮件</h3>  
@@ -49,15 +49,15 @@ permalink: /about/
 <h3>无线电</h3>
 
 &emsp;&emsp;**地平线阻挡的, 只是视线.**  
-&emsp;&emsp;当基础设施不再可靠, 这可能是此行星上最后的信道. 电台一直开着总有点吵, 平时还是是不是当作休闲好了.  
+&emsp;&emsp;当基础设施不再可靠, 这可能是此行星上最后的信道. 电台一直开着总有点吵, 平时还是时不时当作休闲好了.  
 
 &emsp;&emsp;**呼号**: BI4AEI  
 &emsp;&emsp;**约定频率**:  
-&emsp;&emsp;&emsp;&emsp;HF(10m): 28.144 MHz, USB;  
+&emsp;&emsp;&emsp;&emsp;HF(20m): 14.144 MHz, USB;  
 &emsp;&emsp;&emsp;&emsp;VHF(2m): 144.445 MHz, NFW D445N;  
 &emsp;&emsp;**备用频率**;  
 &emsp;&emsp;&emsp;&emsp;HF(40m): 7.144 MHz, LSB;  
-&emsp;&emsp;&emsp;&emsp;HF(20m): 14.144 MHz, USB;  
+&emsp;&emsp;&emsp;&emsp;HF(10m): 28.144 MHz, USB;  
 &emsp;&emsp;&emsp;&emsp;VHF(6m): 51.144 MHz, USB;  
 &emsp;&emsp;&emsp;&emsp;UHF(0.6m): 434.445 MHz, D445 N;  
 &emsp;&emsp;**工作方式**: Digital, CW;  
