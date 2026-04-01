@@ -24,7 +24,7 @@ permalink: /about/
 <h3>如果你反复尝试却联系不到我?</h3>  
 
 &emsp;&emsp;点击左上方[**Yuki Nix**](/ "主页")访问我的博客看看如何.  
-&emsp;&emsp;主页上能找到我的[**推荐歌单**](/posts/2021/12/22/MusicShare.html "推荐歌单")以及书单[**禰夕百本**](/posts/2026/03/11/BookShelf.html). 听听歌, 读读书, 生活很不错.  
+&emsp;&emsp;主页上能找到我的歌单[**禰夕百首**](/posts/2021/12/22/MusicShare.html "推荐歌单")以及书单[**禰夕百本**](/posts/2026/03/11/BookShelf.html "推荐书单"). 听听歌, 读读书, 生活很不错.  
 &emsp;&emsp;也可以试试欣赏[「**涼宮ハルヒ**」](https://en.wikipedia.org/wiki/Haruhi_Suzumiya "凉宫春日系列 Wiki")系列与[「**Serial Experiments Lain**」](https://en.wikipedia.org/wiki/Serial_Experiments_Lain "Lain 系列实验 Wiki"), 笔者对它们甚是喜欢.  
 &emsp;&emsp;你或许在现实世界里亲手收到了我赠予的一张折纸信封, 如果没有, 请记得(在见面时)向我索取. 其中会有我的移动电话号码, 请将它作为我们的秘密吧.  
 
