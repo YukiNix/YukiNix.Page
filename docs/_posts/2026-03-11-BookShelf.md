@@ -118,6 +118,7 @@ categories: posts
 | 你应该记住的拉丁语 1234 句 | 麦克雷 | 商务印书馆 |
 | 作曲基本原理 | 勋伯格 | 上海音乐出版社 |
 | Wireshark 数据包分析实战 | Chris Sanders | 人民邮电出版社 |
+| 看见 | 柴静 | 广西师范大学出版社 |
 | C Primer Plus | 普拉达 | 人民邮电出版社 |
 | C++ Primer Plus | Stephen Prata | 人民邮电出版社 |
 | C 和指针 | Kenneth A.Reek | 人民邮电出版社 |
