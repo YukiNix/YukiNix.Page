@@ -14,7 +14,7 @@ categories: posts
 #### 2026-04-27 去爱, 并做你想做的事.  
 
 > Amā et fac quod vīs.  
-> 造句尝试: Meditāre et explōrā quod nescīs.  
+> 造句尝试: Meditāre et explōrā quod nescīs (去思考, 并探索未知).  
 
 &emsp;&emsp;**英文翻译**: Love and do what you want.  
 &emsp;&emsp;**解析**:  
