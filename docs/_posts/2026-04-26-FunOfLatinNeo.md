@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(新)
-date: 2026-04-27 T0:00:00 +00:00
+date: 2026-04-28 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -10,6 +10,29 @@ categories: posts
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
+
+#### 2026-04-28 运气是盲目的.  
+> Fortūna caeca est.  
+> 造句尝试: Amor caeca est (爱是盲目的).  
+
+&emsp;&emsp;**英文翻译**: Fortune is blind.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**fortūna**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **fortūna, fortūnae**  
+&emsp;&emsp;&emsp;&emsp;翻译: fortune, luck, 运气  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法阴性名词, 单数, 主格  
+&emsp;&emsp;&emsp;**caeca**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **caecus, caeca, caecum**  
+&emsp;&emsp;&emsp;&emsp;翻译: blind, 盲目的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/第二变格法形容词, 阴性, 单数, 主格  
+&emsp;&emsp;&emsp;**est**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**amor**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **amor, amōris**  
+&emsp;&emsp;&emsp;&emsp;翻译: love, 爱，爱情  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法阳性名词, 单数, 主格  
 
 #### 2026-04-27 去爱, 并做你想做的事.  
 
