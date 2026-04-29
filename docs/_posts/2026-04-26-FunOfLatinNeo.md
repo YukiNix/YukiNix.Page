@@ -6,7 +6,6 @@ categories: posts
 ---
 
 {% include JavaScripts.html %}
-{% include mathjax.html %}
 
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
@@ -19,8 +18,8 @@ categories: posts
 > Gender: he, she, it.  
 > 性: 他, 她, 它.  
 
-> Case: **Nix**$^1$! **Yuki**$^2$ sends **Aya's**$^3$ apple **to Umaru**$^4$. But Yuki thanks **Umaru**$^5$ directly. Actually, Umaru got this apple **from Aya**$^6$ before.  
-> 格: 嘿, **禰夕**$^1$! **有希**$^2$ 把 **亜弥 的**$^3$ 苹果送**给 埋まる**$^4$. 但 有希 却直接感谢 **埋まる**$^5$. 事实上, 埋まる 先前**从 亜弥**$^6$ 那里得到了这个苹果.  
+> Case: **Nix**<sup>1</sup>! **Yuki**<sup>2</sup> sends **Aya's**<sup>3</sup> apple **to Umaru**<sup>4</sup>. But Yuki thanks **Umaru**<sup>5</sup> directly. Actually, Umaru got this apple **from Aya**<sup>6</sup> before.  
+> 格: 嘿, **禰夕**<sup>1</sup>! **有希**<sup>2</sup> 把 **亜弥 的**<sup>3</sup> 苹果送**给 埋まる**<sup>4</sup>. 但 有希 却直接感谢 **埋まる**<sup>5</sup>. 事实上, 埋まる 先前**从 亜弥**<sup>6</sup> 那里得到了这个苹果.  
 
 &emsp;&emsp;**拉丁语名词分为三性**:  
 &emsp;&emsp;&emsp;&emsp;名词的 **性(Gender)** 是语法概念而非自然概念. 名词的性应当作为词条的一部分来记忆.  
@@ -30,12 +29,12 @@ categories: posts
 
 &emsp;&emsp;**拉丁语名词具有六格**:  
 &emsp;&emsp;&emsp;&emsp;名词在不同情况下使用不同格的过程被称为 **变格(Declension)**.  
-&emsp;&emsp;&emsp;&emsp;**呼格(Vocative)**: 用来直接呼唤或号召某人或某物. 如 禰夕(Yuki)$^1$;  
-&emsp;&emsp;&emsp;&emsp;**主格(Nominative)**: 通常用来表示限定动词的主语. 如 送苹果的有希(Yuki)$^2$;  
-&emsp;&emsp;&emsp;&emsp;**属格(Genitive)**: 也称**所有格**或**生格**. 当用一个名词来修饰另一个名词时, 修饰名词用属格形式. 如 苹果是亜弥的(Aya's)$^3$;  
-&emsp;&emsp;&emsp;&emsp;**与格(Dative)**: 用来表示间接受到动作影响的人或事物. 如 把苹果给埋まる(to Umaru)$^4$;  
-&emsp;&emsp;&emsp;&emsp;**宾格(Accusative)**: 也称**受格**或**对格**. 用来表示直接受到动词影响的人或事物. 如 被感谢的埋まる(Umaru)$^5$;  
-&emsp;&emsp;&emsp;&emsp;**夺格(Ablative)**: 也称**状语格**或**离格**. 用来修饰或限制动词时使用. 如 苹果是从亜弥(from Aya)$^6$处得到.  
+&emsp;&emsp;&emsp;&emsp;**呼格(Vocative)**: 用来直接呼唤或号召某人或某物. 如 禰夕(Yuki)<sup>1</sup>;  
+&emsp;&emsp;&emsp;&emsp;**主格(Nominative)**: 通常用来表示限定动词的主语. 如 送苹果的有希(Yuki)<sup>2</sup>;  
+&emsp;&emsp;&emsp;&emsp;**属格(Genitive)**: 也称**所有格**或**生格**. 当用一个名词来修饰另一个名词时, 修饰名词用属格形式. 如 苹果是亜弥的(Aya's)<sup>3</sup>;  
+&emsp;&emsp;&emsp;&emsp;**与格(Dative)**: 用来表示间接受到动作影响的人或事物. 如 把苹果给埋まる(to Umaru)<sup>4</sup>;  
+&emsp;&emsp;&emsp;&emsp;**宾格(Accusative)**: 也称**受格**或**对格**. 用来表示直接受到动词影响的人或事物. 如 被感谢的埋まる(Umaru)<sup>5</sup>;  
+&emsp;&emsp;&emsp;&emsp;**夺格(Ablative)**: 也称**状语格**或**离格**. 用来修饰或限制动词时使用. 如 苹果是从亜弥(from Aya)<sup>6</sup>处得到.  
 
 * * *  
 
