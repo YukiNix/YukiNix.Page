@@ -6,6 +6,7 @@ categories: posts
 ---
 
 {% include JavaScripts.html %}
+{% include mathjax.html %}
 
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
