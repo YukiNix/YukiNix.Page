@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(新)
-date: 2026-04-29 T0:00:00 +00:00
+date: 2026-04-30 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -10,6 +10,35 @@ categories: posts
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
+
+* * *  
+
+#### 2026-04-30 如果你好, 我就好.  
+
+> Sī valēs, valeō.  
+> 造句尝试: Sī dolēs, doleō (如果你痛苦, 我就痛苦 | I suffer if you suffer).  
+
+&emsp;&emsp;**英文翻译**: I'm well if you're well.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**sī**  
+&emsp;&emsp;&emsp;&emsp;词性: conj. 连接词  
+&emsp;&emsp;&emsp;&emsp;翻译: if, whether, 如果, 只要  
+&emsp;&emsp;&emsp;**valēs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **valeō, valēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be well, healthy, be worthy, 安好, 健康, 有价值  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第二人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**valeō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**dolēs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **doleō, dolēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to hurt, to suffer, 感到伤痛, 遭难  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第二人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**doleō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第一人称, 单数, 现在, 主动, 直陈式  
 
 * * *  
 
@@ -40,7 +69,7 @@ categories: posts
 
 #### 2026-04-28 运气是盲目的.  
 > Fortūna caeca est.  
-> 造句尝试: Amor caecus est (爱是盲目的).  
+> 造句尝试: Amor caecus est (爱是盲目的 | Love is blind).  
 
 &emsp;&emsp;**原先造句尝试 "Amor ~~caeca~~ est." 存在错误**, 感谢知乎用户 [@FrankvonBerlin](https://www.zhihu.com/people/frankvonberlin "FrankvonBerlin 的知乎主页")在[本文知乎专栏](https://www.zhihu.com/column/c_2031750435166474874 "本文的知乎专栏链接")评论区的指正.  
 &emsp;&emsp;&emsp;&emsp;**错误分析**: est(esse) 关系动词连接的形容词与名词应当在性, 数, 格上都保持一致. amor 是阳性名词, 而 caeca 是 caecum 的阴性形式. 这里应该使用 caecus 这一阳性形式.
@@ -69,7 +98,7 @@ categories: posts
 #### 2026-04-27 去爱, 并做你想做的事.  
 
 > Amā et fac quod vīs.  
-> 造句尝试: Meditāre et explōrā quod nescīs (去思考, 并探索未知).  
+> 造句尝试: Meditāre et explōrā quod nescīs (去思考, 并探索未知 | Think and explore what you do not know).  
 
 &emsp;&emsp;**英文翻译**: Love and do what you want.  
 &emsp;&emsp;**解析**:  
@@ -110,7 +139,7 @@ categories: posts
 #### 2026-04-26 渡过难关直达星辰.  
 
 > Ad astra per aspera.  
-> 造句尝试: Ad maria per agrōs (穿过旷野直到海洋).  
+> 造句尝试: Ad maria per agrōs (穿过旷野直到海洋 | To the sea through fields).  
 
 &emsp;&emsp;**英文翻译**: To the stars through hardships.  
 &emsp;&emsp;**解析**:  
@@ -131,7 +160,7 @@ categories: posts
 &emsp;&emsp;&emsp;**maria**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **mare, maris**  
 &emsp;&emsp;&emsp;&emsp;翻译: sea, 海  
-&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法中性名词(复数-ī), 复数宾格(-a)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法中性名词(复数 -ī), 复数宾格(-a)  
 &emsp;&emsp;&emsp;**agrōs**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **ager, agrī**  
 &emsp;&emsp;&emsp;&emsp;翻译: farm, field, terrirory, 空地, 领地, 农田  
