@@ -9,7 +9,44 @@ categories: posts
 
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
-&emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
+&emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf). 
+
+* * *  
+
+#### 2026-05-07 宽恕坏人者, 伤害好人.  
+
+> Bonīs nocet quisquis parcit mālīs.  
+> 造句尝试: Mālīs nocet quisquis bonōs adiuvat (帮助好人者, 伤害坏人 | Whoever helps good people harms bad people).  
+
+&emsp;&emsp;**英文翻译**: Whoever spares evil people harms good people.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**bonīs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **bonus, bonī**  
+&emsp;&emsp;&emsp;&emsp;翻译: a good/brave/moral man, 好人  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变格法阳性名词(-us, 复数 -ī), 复数与格(-īs)  
+&emsp;&emsp;&emsp;**bonōs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变格法阳性名词(-us, 复数 -ī), 复数宾格(-ōs)  
+&emsp;&emsp;&emsp;**nocet**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **noceō, nocēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to injure, do harm, 伤害  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**quisquis**  
+&emsp;&emsp;&emsp;&emsp;词性: pron. 不定关系代词  
+&emsp;&emsp;&emsp;&emsp;翻译: whoever, whatever, 无论谁, 无论如何  
+&emsp;&emsp;&emsp;**parcit**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **parcō, parcere**  
+&emsp;&emsp;&emsp;&emsp;翻译: to forgive, have mercy for, 饶恕  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**mālīs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **malum, malī**  
+&emsp;&emsp;&emsp;&emsp;翻译: evil, bad words, 邪恶, 不好的东西  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变格法中性名词(-um, 复数 -ī), 复数与格(-īs)  
+&emsp;&emsp;&emsp;**adiuvat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **adiuvō, adiuvāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to help, 帮助  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第三人称, 单数, 现在, 主动, 直陈式  
 
 * * *  
 
