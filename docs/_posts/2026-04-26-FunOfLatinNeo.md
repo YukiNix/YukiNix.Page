@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(新)
-date: 2026-05-07 T0:00:00 +00:00
+date: 2026-05-08 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -10,6 +10,35 @@ categories: posts
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf). 
+
+* * *  
+
+#### 2026-05-08 我, 就是我.  
+
+> Ego sum quae sum.  
+> 造句尝试: Tū es quī es (你, 就是你 | You are who you are).  
+
+&emsp;&emsp;**英文翻译**: I am who I am.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**ego**  
+&emsp;&emsp;&emsp;&emsp;词性: pron. 代词  
+&emsp;&emsp;&emsp;&emsp;翻译: I, 我  
+&emsp;&emsp;&emsp;**sum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**quae**  
+&emsp;&emsp;&emsp;&emsp;词性: pron. 关系代词  
+&emsp;&emsp;&emsp;&emsp;翻译: who, 谁, ...的人  
+&emsp;&emsp;&emsp;&emsp;句内词性: 阴性, 单数, 主格  
+&emsp;&emsp;&emsp;**es**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 第二人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**quī**  
+&emsp;&emsp;&emsp;&emsp;词性: pron. 关系代词  
+&emsp;&emsp;&emsp;&emsp;翻译: who, 谁, ...的人  
+&emsp;&emsp;&emsp;&emsp;句内词性: 阳性, 单数, 主格  
 
 * * *  
 
