@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(新)
-date: 2026-05-10 T0:00:00 +00:00
+date: 2026-05-11 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -9,7 +9,41 @@ categories: posts
 
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
-&emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf). 
+&emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
+
+* * *  
+
+#### 2026-05-11 我不构造假说.  
+
+> Hypothesēs nōn fingō.  
+> 造句尝试: Vītam aliēnam nōn fingō (我不构造别人的人生 | I do not fabricate another person's life).  
+
+&emsp;&emsp;**英文翻译**: I do not fabricate hypotheses.  
+&emsp;&emsp;**解析**:  
+
+&emsp;&emsp;&emsp;**hypothesēs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **hypothesis, -is** (希腊语外来词)  
+&emsp;&emsp;&emsp;&emsp;翻译: hypothesis, 假说  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阴性, 复数宾格(-ēs)  
+
+&emsp;&emsp;&emsp;**nōn**  
+&emsp;&emsp;&emsp;&emsp;词性: adv. 副词  
+&emsp;&emsp;&emsp;&emsp;翻译: not, 不, (否定)  
+
+&emsp;&emsp;&emsp;**fingō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **fingō, fingere**  
+&emsp;&emsp;&emsp;&emsp;翻译: to form, fabricate, 构造, 编造  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 直陈式  
+
+&emsp;&emsp;&emsp;**vītam**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **vīta, vītae**  
+&emsp;&emsp;&emsp;&emsp;翻译: life, 生活  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(主格单数 -a, 属格单数 -ae), 阴性, 单数宾格(-am)  
+
+&emsp;&emsp;&emsp;**aliēnam**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **aliēnus, aliēna, aliēnum**  
+&emsp;&emsp;&emsp;&emsp;翻译: someone else’s, 其他人的, 别人的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词, 阴性, 单数宾格(-am)  
 
 * * *  
 
@@ -20,27 +54,22 @@ categories: posts
 
 &emsp;&emsp;**英文翻译**: Faith must be kept.  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**fidēs**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **fidēs, fidēī**  
 &emsp;&emsp;&emsp;&emsp;翻译: faith, belief, 信念, 信条  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第五变格法阴性名词(属格单数 -ēī), 单数主格(-ēs)  
-
 &emsp;&emsp;&emsp;**servanda**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **servandus, servanda, servandum**  
 &emsp;&emsp;&emsp;&emsp;翻译: which is to be maintained, 保持..., 恪守...  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词(阳性 -us, 阴性 -a, 中性 -um), 阴性单数主格(-a). 此处作为动形容词/未来被动分词  
-
 &emsp;&emsp;&emsp;**servandae**  
 &emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
 &emsp;&emsp;&emsp;&emsp;翻译: (同上)  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词(阳性 -us, 阴性 -a, 中性 -um), 阴性复数主格(-ae)  
-
 &emsp;&emsp;&emsp;**cōnsuētūdinēs**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **cōnsuētūdō, cōnsuētūdinis**  
 &emsp;&emsp;&emsp;&emsp;翻译: tradition, experience, 传统, 经验  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(不定式 -is), 阴性, 复数主格  
-
 &emsp;&emsp;&emsp;**sunt**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
 &emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
