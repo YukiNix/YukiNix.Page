@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(新)
-date: 2026-05-11 T0:00:00 +00:00
+date: 2026-05-12 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -13,6 +13,24 @@ categories: posts
 
 * * *  
 
+#### 2026-05-12 致读者.  
+
+> Lēctōrī salūtem.  
+> 造句尝试: Yuki salūtem (致有希 | Greetings to Yuki).  
+
+&emsp;&emsp;**英文翻译**: Greetings to the reader.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**lēctōrī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **lēctor, lēctōris**  
+&emsp;&emsp;&emsp;&emsp;翻译: reader, 读者  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阳性, 单数与格(-ī)  
+&emsp;&emsp;&emsp;**salūtem**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **salūs, salūtis**  
+&emsp;&emsp;&emsp;&emsp;翻译: greeting, salutation, 致意, 祝好  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阴性, 单数宾格(-em)  
+
+* * *  
+
 #### 2026-05-11 我不构造假说.  
 
 > Hypothesēs nōn fingō.  
@@ -20,26 +38,21 @@ categories: posts
 
 &emsp;&emsp;**英文翻译**: I do not fabricate hypotheses.  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**hypothesēs**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **hypothesis, -is** (希腊语外来词)  
 &emsp;&emsp;&emsp;&emsp;翻译: hypothesis, 假说  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阴性, 复数宾格(-ēs)  
-
 &emsp;&emsp;&emsp;**nōn**  
 &emsp;&emsp;&emsp;&emsp;词性: adv. 副词  
 &emsp;&emsp;&emsp;&emsp;翻译: not, 不, (否定)  
-
 &emsp;&emsp;&emsp;**fingō**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **fingō, fingere**  
 &emsp;&emsp;&emsp;&emsp;翻译: to form, fabricate, 构造, 编造  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 直陈式  
-
 &emsp;&emsp;&emsp;**vītam**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **vīta, vītae**  
 &emsp;&emsp;&emsp;&emsp;翻译: life, 生活  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(主格单数 -a, 属格单数 -ae), 阴性, 单数宾格(-am)  
-
 &emsp;&emsp;&emsp;**aliēnam**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **aliēnus, aliēna, aliēnum**  
 &emsp;&emsp;&emsp;&emsp;翻译: someone else’s, 其他人的, 别人的  
