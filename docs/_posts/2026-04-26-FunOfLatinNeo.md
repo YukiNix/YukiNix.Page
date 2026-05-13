@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 有趣的拉丁语(新)
-date: 2026-05-12 T0:00:00 +00:00
+title: 有趣的拉丁语(持续更新)
+date: 2026-05-13 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -10,6 +10,38 @@ categories: posts
 &emsp;&emsp;在 2022 年 04 月 09 日本站开设了[有趣的拉丁语](/posts/2022/08/09/FunOfLatin.html)页面. 就像复原被火山灰定格的庞贝卷轴, 笔者突然想继续这个分享"最后的罗马人"乐趣的事.  
 
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
+
+&emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-13 若想被爱, 就先去爱.  
+
+> Sī vīs amārī, amā.  
+> 造句尝试: Sī vīs adiuvārī, adiuvā (想被帮助, 就去帮助 | If you want to be helped, help).  
+
+&emsp;&emsp;**英文翻译**: If you want to be loved, love.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**sī**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-30  
+&emsp;&emsp;&emsp;**vīs**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;**amārī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **amō, amāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be loved, 被爱  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 现在, 被动, 不定式(-ārī)  
+&emsp;&emsp;&emsp;**amā**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: love, 爱吧  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第二人称, 单数, 现在, 主动, 命令式(-ā)  
+&emsp;&emsp;&emsp;**adiuvārī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **adiuvō, adiuvāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be helped, 被帮助  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 现在, 被动, 不定式(-ārī)  
+&emsp;&emsp;&emsp;**adiuvā**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: help, 帮助吧  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第二人称, 单数, 现在, 主动, 命令式(-ā)  
 
 * * *  
 
@@ -87,6 +119,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
 &emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
 &emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 第三人称, 复数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**est**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-28  
 
 * * *  
 
@@ -108,6 +142,9 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词性: pron. 关系代词  
 &emsp;&emsp;&emsp;&emsp;翻译: who, 谁, ...的人  
 &emsp;&emsp;&emsp;&emsp;句内词性: 阴性, 单数, 主格  
+&emsp;&emsp;&emsp;**tū**  
+&emsp;&emsp;&emsp;&emsp;词性: pron. 代词  
+&emsp;&emsp;&emsp;&emsp;翻译: you, 你  
 &emsp;&emsp;&emsp;**es**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
 &emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
@@ -215,7 +252,7 @@ categories: posts
 > 造句尝试: Amor caecus est (爱是盲目的 | Love is blind).  
 
 &emsp;&emsp;**原先造句尝试 "Amor ~~caeca~~ est." 存在错误**, 感谢知乎用户 [@FrankvonBerlin](https://www.zhihu.com/people/frankvonberlin "FrankvonBerlin 的知乎主页")在[本文知乎专栏](https://www.zhihu.com/column/c_2031750435166474874 "本文的知乎专栏链接")评论区的指正.  
-&emsp;&emsp;&emsp;&emsp;**错误分析**: est(esse) 关系动词连接的形容词与名词应当在性, 数, 格上都保持一致. amor 是阳性名词, 而 caeca 是 caecum 的阴性形式. 这里应该使用 caecus 这一阳性形式.
+&emsp;&emsp;&emsp;&emsp;**错误分析**: est(esse) 关系动词连接的形容词与名词应当在性, 数, 格上都保持一致. amor 是阳性名词, 而 caeca 是 caecum 的阴性形式. 这里应该使用 caecus 这一阳性形式.  
 
 &emsp;&emsp;**英文翻译**: Fortune is blind.  
 &emsp;&emsp;**解析**:  
@@ -227,6 +264,10 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词典形式: **caecus, caeca, caecum**  
 &emsp;&emsp;&emsp;&emsp;翻译: blind, 盲目的  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一/第二变格法形容词, 阴性, 单数, 主格  
+&emsp;&emsp;&emsp;**caecus**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/第二变格法形容词, 阳性, 单数, 主格  
 &emsp;&emsp;&emsp;**est**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
 &emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
