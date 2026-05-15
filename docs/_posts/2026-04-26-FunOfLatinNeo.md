@@ -293,7 +293,7 @@ categories: posts
 
 &emsp;&emsp;**拉丁语名词具有六格**:  
 &emsp;&emsp;&emsp;&emsp;名词在不同情况下使用不同格的过程被称为 **变格(Declension)**.  
-&emsp;&emsp;&emsp;&emsp;**呼格(Vocative)**: 用来直接呼唤或号召某人或某物. 如 禰夕(Yuki)<sup>1</sup>;  
+&emsp;&emsp;&emsp;&emsp;**呼格(Vocative)**: 用来直接呼唤或号召某人或某物. 如 禰夕(Nix)<sup>1</sup>;  
 &emsp;&emsp;&emsp;&emsp;**主格(Nominative)**: 通常用来表示限定动词的主语. 如 送苹果的有希(Yuki)<sup>2</sup>;  
 &emsp;&emsp;&emsp;&emsp;**属格(Genitive)**: 也称**所有格**或**生格**. 当用一个名词来修饰另一个名词时, 修饰名词用属格形式. 如 苹果是亜弥的(Aya's)<sup>3</sup>;  
 &emsp;&emsp;&emsp;&emsp;**与格(Dative)**: 用来表示间接受到动作影响的人或事物. 如 把苹果给埋まる(to Umaru)<sup>4</sup>;  
