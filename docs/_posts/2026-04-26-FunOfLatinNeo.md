@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-14 T0:00:00 +00:00
+date: 2026-05-15 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,33 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+
+* * *  
+
+#### 2026-05-15 我赦免你.  
+
+> Ego tē absolvō.  
+> 造句尝试: Tē absolvunt (他们宣告你无罪 | They declare you innocent).  
+
+&emsp;&emsp;**英文翻译**: I absolve you.  
+&emsp;&emsp;**小知识**: 拉丁语中动词的变位通常已经标明了主语的人称和数. 当主语是人称代词时, 主语通常可以被省略. 此时特别声明主语通常带有强调主语的意义.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**ego**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-08  
+&emsp;&emsp;&emsp;**tē**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **tū**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-08  
+&emsp;&emsp;&emsp;&emsp;翻译: you, 你  
+&emsp;&emsp;&emsp;&emsp;句内词性: pron. 代词, 第二人称, 单数, 宾格  
+&emsp;&emsp;&emsp;**absolvō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **absolvō, absolvere**  
+&emsp;&emsp;&emsp;&emsp;翻译: I absolve, I declare ... innocent, 我赦免, 我宣告...无罪  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 直陈式(-ō)  
+&emsp;&emsp;&emsp;**absolvunt**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: They absolve, They declare ... innocent, 他们赦免, 他们宣告...无罪  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第三人称, 复数, 现在, 主动, 直陈式(-unt)  
 
 * * *  
 
