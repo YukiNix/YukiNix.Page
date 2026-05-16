@@ -22,23 +22,18 @@ categories: posts
 
 &emsp;&emsp;**英文翻译**: Where there is no accuser, there is no judge.  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**ubi**  
 &emsp;&emsp;&emsp;&emsp;句内词性: adv. 副词(不可比较)  
 &emsp;&emsp;&emsp;&emsp;翻译: where, 哪里, ...的地方  
-
 &emsp;&emsp;&emsp;**nōn**  
 &emsp;&emsp;&emsp;&emsp;参考: 2026-05-11  
-
 &emsp;&emsp;&emsp;**accūsātor**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **accūsātor, accūsātōris**  
 &emsp;&emsp;&emsp;&emsp;翻译: accuser, 指控人, 原告  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阳性, 单数, 主格  
-
 &emsp;&emsp;&emsp;**ibi**  
 &emsp;&emsp;&emsp;&emsp;句内词性: adv. 副词(不可比较)  
 &emsp;&emsp;&emsp;&emsp;翻译: there, in that place, 那里  
-
 &emsp;&emsp;&emsp;**iūdex**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **iūdex, iūdicis**  
 &emsp;&emsp;&emsp;&emsp;翻译: judge, 法官, 裁决者  
