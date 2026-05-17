@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-16 T0:00:00 +00:00
+date: 2026-05-17 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,41 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-17 沉默者, 视同同意.  
+
+> Quī tacet, cōnsentīre vidētur.  
+> 造句尝试: Quī semper cōnsentit, tacēre vidētur (总是同意者, 视同不语 | Whoever always agrees seems to be silent).  
+
+&emsp;&emsp;**英文翻译**: Whoever is silent seems to consent.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**quī**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-08  
+&emsp;&emsp;&emsp;**tacet**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **taceō, tacēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be silent, 沉默  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**tacēre**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: to be silent, 沉默, 不言  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 现在, 主动, 不定式  
+&emsp;&emsp;&emsp;**cōnsentīre**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **cōnsentiō, cōnsentīre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to agree, 同意  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变位法动词(不定式 -īre), 现在, 主动, 不定式  
+&emsp;&emsp;&emsp;**cōnsentit**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: agrees, 同意  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变位法动词(不定式 -īre), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**vidētur**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **videō, vidēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: is seen, seems, 被视作, 被看  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 现在, 被动, 直陈式  
+&emsp;&emsp;&emsp;**semper**  
+&emsp;&emsp;&emsp;&emsp;句内词性: adv. 副词(不可比较)  
+&emsp;&emsp;&emsp;&emsp;翻译: always, 总是  
 
 * * *  
 
