@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-17 T0:00:00 +00:00
+date: 2026-05-18 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,31 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-18 只要我一息尚存, 就心怀希望.  
+
+> Dum spīrō, spērō.  
+> 造句尝试: Dum spīrō, cōgitō (我活着, 我思考 | As long as I live, I think).  
+
+&emsp;&emsp;**英文翻译**: While I breathe, I hope.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**dum**  
+&emsp;&emsp;&emsp;&emsp;句内词性: conj. 连接词  
+&emsp;&emsp;&emsp;&emsp;翻译: while, as long as, 当...时, 只要...就  
+&emsp;&emsp;&emsp;**spīrō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **spīrō, spīrāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I live, I breathe, 我存活, 我呼吸  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**spērō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **spērō, spērāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I hope, I expect, 我希望, 我期待  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**cōgitō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **cōgitō, cōgitāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I think, I consider, 我思考, 我考虑  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 现在, 主动, 直陈式  
 
 * * *  
 
