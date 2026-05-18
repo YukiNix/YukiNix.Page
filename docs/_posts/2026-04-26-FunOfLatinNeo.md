@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-18 T0:00:00 +00:00
+date: 2026-05-19 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,37 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-19 愿她安息.  
+
+> **(此条目献给一位逝去的朋友, 今天是她的生日)**  
+> Requiēscat in pāce. (= R.I.P.)  
+> 造句尝试: Gaudeat in nātāle (愿她生日快乐 | May she be glad on her birthday).  
+
+&emsp;&emsp;**英文翻译**: May she rest in peace.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**注意**: 造句尝试中"in nātāle"是为了贴近原句形式, 实际使用中采用"diē nātālī"(on the birthday, 在生日这一天)更合适.  
+&emsp;&emsp;&emsp;**requiēscat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **requiēscō, requiēscere**  
+&emsp;&emsp;&emsp;&emsp;翻译: may he/she rest, 愿他/她安息  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第三人称, 单数, 现在, 主动, 虚拟式(-at)  
+&emsp;&emsp;&emsp;**in**  
+&emsp;&emsp;&emsp;&emsp;句内词性: prep. 介词  
+&emsp;&emsp;&emsp;&emsp;翻译: in, at, on, 在  
+&emsp;&emsp;&emsp;**pāce**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **pāx, pācis**  
+&emsp;&emsp;&emsp;&emsp;翻译: peace, peace of mind, 和平, 安宁  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阴性, 单数, 夺格(-e)  
+&emsp;&emsp;&emsp;**gaudeat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **gaudeō, gaudēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: may he/she be glad, 愿他/她开心  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 现在, 主动, 虚拟式(-eat)  
+&emsp;&emsp;&emsp;**nātāle**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **nātālis, nātālis, nātāle**  
+&emsp;&emsp;&emsp;&emsp;翻译: birthday, 生日  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格形容词, 中性, 名词化形式, 单数, 夺格(-e)  
 
 * * *  
 
