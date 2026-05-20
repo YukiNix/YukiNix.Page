@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-19 T0:00:00 +08:00
+date: 2026-05-20 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,46 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-20 不要打扰我的计算!  
+
+> Nōlī turbāre circulōs meōs!  
+> 造句尝试: Nōlī turbāre amōrem meum (不要打扰我的恋爱 | Do not disturb my love)!  
+
+&emsp;&emsp;**英文翻译**: Do not disturb my circles(calculations)!  
+&emsp;&emsp;**解析**:  
+
+&emsp;&emsp;&emsp;**nōlī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **nōlō, nōlle**  
+&emsp;&emsp;&emsp;&emsp;翻译: do not, 不要...  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则变位法动词, 第二人称, 单数, 现在, 主动, 命令式  
+
+&emsp;&emsp;&emsp;**turbāre**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **turbō, turbāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to disturb, 打扰  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 现在, 主动, 不定式(-āre)  
+
+&emsp;&emsp;&emsp;**circulōs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **circulus, circulī**  
+&emsp;&emsp;&emsp;&emsp;翻译: a circle, an orbit, 圆形, 轨道, (引申为"计算")  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变格法名词(单数主格 -us, -r, -um, 单数属格 -ī), 阳性(单数主格 -us), 复数, 宾格(-ōs)  
+
+&emsp;&emsp;&emsp;**meōs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **meus, mea, meum**  
+&emsp;&emsp;&emsp;&emsp;翻译: my, mine, 我的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一(单数主格 -us, 单数属格 -ae)/二(单数主格 -us, -r, -um, 单数属格 -ī)变格法限定词, 阳性(单数主格 -us), 复数, 宾格(-ōs)  
+
+&emsp;&emsp;&emsp;**meum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法限定词, 阳性(单数主格 -us), 单数, 宾格(-um)  
+
+&emsp;&emsp;&emsp;**amōrem**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **amor, amōris**  
+&emsp;&emsp;&emsp;&emsp;翻译: love, 恋爱  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阳性, 单数, 宾格(-em)  
 
 * * *  
 
