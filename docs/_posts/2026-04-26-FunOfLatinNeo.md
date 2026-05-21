@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-20 T0:00:00 +00:00
+date: 2026-05-21 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -15,6 +15,41 @@ categories: posts
 
 * * *  
 
+#### 2026-05-21 拉丁语动词的"位式".  
+
+> Finite forms (Moods): It does<sup>1</sup>. May it do<sup>2</sup>. Do<sup>3</sup> it.  
+> 限定形式 (式): 它做<sup>1</sup>. 愿它做<sup>2</sup>. 请做<sup>3</sup>.  
+
+> Non-finite forms: To do<sup>4</sup>. The doing<sup>5</sup> thing / the done<sup>6</sup> thing. The act of doing<sup>7</sup>.  
+> 非限定形式: 做<sup>4</sup>. 正在做<sup>5</sup>/已经被做<sup>6</sup>的事. 做事<sup>7</sup>.  
+
+&emsp;&emsp;**变位(Conjugation)**: 也称 **活用**. 是动词根据 式, 语态, 体, 时态, 数, 人称 的不同而产生的词形变化的过程.  
+&emsp;&emsp;&emsp;&emsp;静词的词形变化不能称为变位，往往称为 **变格(Declension)** (参考 2026-04-29).  
+
+&emsp;&emsp;**变位涉及六个语法范畴**:  
+&emsp;&emsp;&emsp;**式(Mood)**: 也称 **语气**. 细节将在本条目下面讨论;  
+&emsp;&emsp;&emsp;**语态(Voice)**: 描述动作和参与此动作之主语之间关系. 通常分为 **主动语态(Active)** 和 **被动语态(Passive)**;  
+&emsp;&emsp;&emsp;**体(Aspect)**: 表示事件的内部时间结构, 如关于该动作的开始, 持续, 完成或重复等方面的情况. 但不涉及该动作发生的时间. 通常分为 **完成体(Perfect)** 和 **未完成体(Imperfect)**;  
+&emsp;&emsp;&emsp;**时态(Tense)**: 表示动作外部的时间关系. 按时间方向通常可分为 **过去时(Past)**, **现在时(Present)**, **将来时(Future)**;  
+&emsp;&emsp;&emsp;**数(Number)**: 表示动词动作参与者的数量关系. 通常分为 单数(Singular) 和 复数(Plural);  
+&emsp;&emsp;&emsp;**人称(Person)**: 描述行为动作相关的角色. 通常分为**第一人称(First)**(如 我/我们), **第二人称(Second)**(如 你/你们), **第三人称(Third)**(如 它/它们).  
+
+&emsp;&emsp;**拉丁语动词形式可先分为两类**:  
+&emsp;&emsp;&emsp;&emsp;**限定形式(Finite Forms)**: 通常可以作为限定谓语的动词形式. 包括直陈式, 虚拟式, 命令式;  
+&emsp;&emsp;&emsp;&emsp;**非限定形式(Non-finite Forms)**: 通常不单独作为限定谓语, 不完整标明人称和数. 包括不定式, 分词, 动名词.  
+
+&emsp;&emsp;**拉丁语的式(Mood)**:  
+&emsp;&emsp;&emsp;**直陈式(Indicative)**: 描述事实, 状态或直接陈述判断的形式. 如 它做<sup>1</sup>;  
+&emsp;&emsp;&emsp;**虚拟式(Subjunctive)**: 描述非直接事实陈述的形式. 如 愿它做<sup>2</sup>;  
+&emsp;&emsp;&emsp;**命令式(Imperative)**: 也称 **祈使式** . 表达命令或请求他人进行动作. 如 请做<sup>3</sup>.  
+
+&emsp;&emsp;**拉丁语的非限定形式**:  
+&emsp;&emsp;&emsp;**不定式(Infinitive)**: 是动词不标明人称和数的非限定动词形式, 表达其原本的意义. 如 做<sup>4</sup>;  
+&emsp;&emsp;&emsp;**分词(Participle)**: 具有形容词功能的动词形式, 可以用于构成复合时态语态或作为修饰语. 如 正在做<sup>5</sup>(现在分词) 和 已经被做<sup>6</sup>(完成分词);  
+&emsp;&emsp;&emsp;**动名词(Gerund)**: 是一种 **动词性名词(Verbal Noun)**. 具有名词功能的动词形式, 在拉丁语中通常只能出现在某些 **斜格(Oblique Cases)** (主格与呼格之外的格的总称)中. 如: 做事<sup>7</sup>.  
+
+* * *  
+
 #### 2026-05-20 不要打扰我的计算!  
 
 > Nōlī turbāre circulōs meōs!  
@@ -22,32 +57,26 @@ categories: posts
 
 &emsp;&emsp;**英文翻译**: Do not disturb my circles(calculations)!  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**nōlī**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **nōlō, nōlle**  
 &emsp;&emsp;&emsp;&emsp;翻译: do not, 不要...  
 &emsp;&emsp;&emsp;&emsp;句内词性: 不规则变位法动词, 第二人称, 单数, 现在, 主动, 命令式  
-
 &emsp;&emsp;&emsp;**turbāre**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **turbō, turbāre**  
 &emsp;&emsp;&emsp;&emsp;翻译: to disturb, 打扰  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 现在, 主动, 不定式(-āre)  
-
 &emsp;&emsp;&emsp;**circulōs**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **circulus, circulī**  
 &emsp;&emsp;&emsp;&emsp;翻译: a circle, an orbit, 圆形, 轨道, (引申为"计算")  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第二变格法名词(单数主格 -us, -r, -um, 单数属格 -ī), 阳性(单数主格 -us), 复数, 宾格(-ōs)  
-
 &emsp;&emsp;&emsp;**meōs**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **meus, mea, meum**  
 &emsp;&emsp;&emsp;&emsp;翻译: my, mine, 我的  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一(单数主格 -us, 单数属格 -ae)/二(单数主格 -us, -r, -um, 单数属格 -ī)变格法限定词, 阳性(单数主格 -us), 复数, 宾格(-ōs)  
-
 &emsp;&emsp;&emsp;**meum**  
 &emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
 &emsp;&emsp;&emsp;&emsp;翻译: (同上)  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法限定词, 阳性(单数主格 -us), 单数, 宾格(-um)  
-
 &emsp;&emsp;&emsp;**amōrem**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **amor, amōris**  
 &emsp;&emsp;&emsp;&emsp;翻译: love, 恋爱  
