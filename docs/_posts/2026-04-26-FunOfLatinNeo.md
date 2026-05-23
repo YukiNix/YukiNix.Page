@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-21 T0:00:00 +00:00
+date: 2026-05-23 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,41 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-23 我来了, 我看见了, 我征服了.  
+
+> Vēnī, vīdī, vīcī!  
+> 造句尝试: Voluī, parāvī, perfēcī (我想要了, 我准备了, 我实现了 | I wanted, I prepared, I achieved).  
+
+&emsp;&emsp;**英文翻译**: I came, I saw, I conquered.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**vēnī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **veniō, venīre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I came, 我已来  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变位法动词(不定式 -īre), 第一人称, 单数, 主动, 完成, 直陈式  
+&emsp;&emsp;&emsp;**vīdī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **videō, vidēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I saw, 我已看见  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第一人称, 单数, 主动, 完成, 直陈式  
+&emsp;&emsp;&emsp;**vīcī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **vincō, vincere**  
+&emsp;&emsp;&emsp;&emsp;翻译: I conquered, 我已征服  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 主动, 完成, 直陈式  
+&emsp;&emsp;&emsp;**voluī**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;&emsp;词典形式: **volō, velle**  
+&emsp;&emsp;&emsp;&emsp;翻译: I wanted, 我已想要  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 第一人称, 单数, 主动, 完成, 直陈式  
+&emsp;&emsp;&emsp;**parāvī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **parō, parāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I prepared, 我已准备  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 主动, 完成, 直陈式  
+&emsp;&emsp;&emsp;**perfēcī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **perficiō, perficere**  
+&emsp;&emsp;&emsp;&emsp;翻译: I achieved, 我已实现  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 主动, 完成, 直陈式  
 
 * * *  
 
