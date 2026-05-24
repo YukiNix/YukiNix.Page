@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-23 T0:00:00 +00:00
+date: 2026-05-24 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,36 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-24 恋人会记住所有事.  
+
+> Meminērunt omnia amantēs.  
+> 造句尝试: Meminit omnia tempus (时间会记住所有事 | Time remembers all things).
+
+&emsp;&emsp;**英文翻译**: Lovers remember all things.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**meminērunt**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **meminī, meminisse**  
+&emsp;&emsp;&emsp;&emsp;翻译: They remember, 他们记得  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词, 缺陷动词(完成时系统), 第三人称, 复数, 主动, 现在, 直陈式  
+&emsp;&emsp;&emsp;**meminit**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: it remembers, 它记得  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词, 缺陷动词(完成时系统), 第三人称, 单数, 主动, 现在, 直陈式  
+&emsp;&emsp;&emsp;**omnia**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **omnia, omnium**  
+&emsp;&emsp;&emsp;&emsp;翻译: all things, 所有事  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(仅复数, 属格 -um), 中性, 复数, 宾格(-a)  
+&emsp;&emsp;&emsp;**amantēs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **amāns, amantis**  
+&emsp;&emsp;&emsp;&emsp;翻译: lovers, 恋人们  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格 -is), 阴性/阳性, 复数, 主格(-ēs)  
+&emsp;&emsp;&emsp;**tempus**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **tempus, temporis**  
+&emsp;&emsp;&emsp;&emsp;翻译: time, 时间  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 中性, 单数, 主格(-us)  
 
 * * *  
 
