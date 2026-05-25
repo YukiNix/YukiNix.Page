@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-24 T0:00:00 +00:00
+date: 2026-05-25 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -15,10 +15,49 @@ categories: posts
 
 * * *  
 
+#### 2026-05-25 说谎者应当有好的记忆力.  
+
+> Mendācem memorem esse oportet.  
+> 造句尝试: Sapientem perītum esse oportet (智者应当有丰富的经验 | It is necessary for a sage to be experienced).  
+
+&emsp;&emsp;**英文翻译**: A liar must have a good memory.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**宾格不定式结构(Accusative and Infinitive, ACI)**  
+&emsp;&emsp;&emsp;&emsp;定义: 用一个"宾格名词/代词"作逻辑主语, 再用"不定式"作谓语构成一个小句的语法结构.  
+&emsp;&emsp;&emsp;&emsp;形式: 主句动词 + (宾格 + 不定式) = 主句动词 + "某人/某物做某事".  
+&emsp;&emsp;&emsp;&emsp;句内形式: Mendācem(宾格, 说谎者) memorem(宾格, 记性好的) esse(不定式, 是) oportet(主句动词, 是必要的) = "说谎者是记性好的" + 是必要的.  
+&emsp;&emsp;&emsp;**mendācem**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **mendāx, mendācis**  
+&emsp;&emsp;&emsp;&emsp;翻译: liar, 说谎者  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阴性/阳性, 单数, 宾格  
+&emsp;&emsp;&emsp;**memorem**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **memor, memoris**  
+&emsp;&emsp;&emsp;&emsp;翻译: mindful, 记性好的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法形容词(单数属格 -is), 阳性(表泛指), 单数, 宾格  
+&emsp;&emsp;&emsp;**esse**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-10  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sum, esse**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be, 是，存在  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 现在, 主动, 不定式  
+&emsp;&emsp;&emsp;**oportet**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **oportet, oportēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be necessary, 是必要的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 主动, 现在, 直陈式  
+&emsp;&emsp;&emsp;**sapientem**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sapiēns, sapientis**  
+&emsp;&emsp;&emsp;&emsp;翻译: sage, 智者  
+&emsp;&emsp;&emsp;&emsp;句内词性: **sapiō, sapere** 的现在主动分词(名词/形容词化). 此处为第三变格法名词(单数属格 -is), 阴/阳性, 单数, 宾格  
+&emsp;&emsp;&emsp;**perītum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **perītus, perīta, perītum**  
+&emsp;&emsp;&emsp;&emsp;翻译: experienced, 经验丰富的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词, 阳性(表泛指), 单数, 宾格  
+
+* * *  
+
 #### 2026-05-24 恋人会记住所有事.  
 
 > Meminērunt omnia amantēs.  
-> 造句尝试: Meminit omnia tempus (时间会记住所有事 | Time remembers all things).
+> 造句尝试: Meminit omnia tempus (时间会记住所有事 | Time remembers all things).  
 
 &emsp;&emsp;**英文翻译**: Lovers remember all things.  
 &emsp;&emsp;**解析**:  
