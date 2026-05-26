@@ -18,7 +18,7 @@ categories: posts
 #### 2026-05-26 这是希腊语, 不用读.  
 
 > Graecum est, nōn legitur.  
-> 造句尝试: Latīnum est, legitur (这是拉丁语的, 要读 | It is Latin; it is read).  
+> 造句尝试: Latīnum est, legitur (这是拉丁语, 要读 | It is Latin; it is read).  
 
 &emsp;&emsp;**英文翻译**: It is Greek; it is not read.  
 &emsp;&emsp;**解析**:  
