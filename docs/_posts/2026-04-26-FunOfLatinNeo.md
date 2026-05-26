@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-25 T0:00:00 +00:00
+date: 2026-05-26 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,34 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-26 这是希腊语, 不用读.  
+
+> Graecum est, nōn legitur.  
+> 造句尝试: Latīnum est, legitur (这是拉丁语的, 要读 | It is Latin; it is read).  
+
+&emsp;&emsp;**英文翻译**: It is Greek; it is not read.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**graecum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **graecus, graeca, graecum**  
+&emsp;&emsp;&emsp;&emsp;翻译: Greek, Greek language, 希腊语  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词(单数阳性属格 -ī, 阴性属格 -ae), 名词化, 中性, 单数, 主格(-um)  
+&emsp;&emsp;&emsp;**est**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-28  
+&emsp;&emsp;&emsp;&emsp;翻译: is, 是  
+&emsp;&emsp;&emsp;**nōn**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-11  
+&emsp;&emsp;&emsp;&emsp;翻译: not, 不  
+&emsp;&emsp;&emsp;**legitur**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **legō, legere**  
+&emsp;&emsp;&emsp;&emsp;翻译: be read, 被读  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第三人称, 单数, 现在, 被动, 直陈式  
+&emsp;&emsp;&emsp;**latīnum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **latīnus, latīna, latīnum**  
+&emsp;&emsp;&emsp;&emsp;翻译: Latin, Latin language, 拉丁语  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词(单数阳性属格 -ī, 阴性属格 -ae), 名词化, 中性, 单数, 主格(-um)  
 
 * * *  
 
