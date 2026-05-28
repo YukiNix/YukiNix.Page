@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-27 T0:00:00 +00:00
+date: 2026-05-28 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,30 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+
+* * *  
+
+#### 2026-05-28 "请穿好内裤."  
+
+> **(此条目是英语谐音幽默短句, 并非正常拉丁语句子)**  
+> Semper ubi sub ubi.  
+> 造句尝试: Semper ubi quidquid ("总得穿点什么" | "Always wear whatever").  
+
+&emsp;&emsp;**英文翻译**: Always wear underwear (Always where under where).  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**semper**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-17  
+&emsp;&emsp;&emsp;&emsp;翻译: always, 总是  
+&emsp;&emsp;&emsp;**ubi**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-16  
+&emsp;&emsp;&emsp;&emsp;翻译: where, 哪里, ...的地方  
+&emsp;&emsp;&emsp;**sub**  
+&emsp;&emsp;&emsp;&emsp;句内词性: prep. 介词  
+&emsp;&emsp;&emsp;&emsp;翻译: under, 下方  
+&emsp;&emsp;&emsp;**quidquid**  
+&emsp;&emsp;&emsp;&emsp;句内词性: pron. 代词  
+&emsp;&emsp;&emsp;&emsp;翻译: whatever, 什么都好  
 
 * * *  
 
