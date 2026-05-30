@@ -22,22 +22,18 @@ categories: posts
 
 &emsp;&emsp;**英文翻译**: The name is a sign.  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**nōmen**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **nōmen, nōminis**  
 &emsp;&emsp;&emsp;&emsp;翻译: name, 名字  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -inis, 不等音节非 -i 分支), 中性, 单数, 主格(-en)  
-
 &emsp;&emsp;&emsp;**ōmen**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **ōmen, ōminis**  
 &emsp;&emsp;&emsp;&emsp;翻译: sign, 记号  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -inis, 不等音节非 -i 分支), 中性, 单数, 主格(-en)  
-
 &emsp;&emsp;&emsp;**pecūnia**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **pecūnia, pecūniae**  
 &emsp;&emsp;&emsp;&emsp;翻译: money, 钱  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(单数属格 -ae), 阴性, 单数, 主格(-a)  
-
 &emsp;&emsp;&emsp;**numerus**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **numerus, numerī**  
 &emsp;&emsp;&emsp;&emsp;翻译: number, 数字  
