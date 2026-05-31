@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-05-30 T0:00:00 +00:00
+date: 2026-05-31 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,38 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-05-31 与你的心灵同在.  
+
+> Et cum spīritū tuō.  
+> 造句尝试: Et cum fidē tuā (与你的信念同在 | And with your faith).  
+
+&emsp;&emsp;**英文翻译**: And with your spirit.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**et**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;&emsp;翻译: and, 和  
+&emsp;&emsp;&emsp;**cum**  
+&emsp;&emsp;&emsp;&emsp;词性: prep. 介词  
+&emsp;&emsp;&emsp;&emsp;翻译: with, 与...一起  
+&emsp;&emsp;&emsp;**spīritū**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **spīritus, spīritūs**  
+&emsp;&emsp;&emsp;&emsp;翻译: spirit, 心灵  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变格法名词(单数属格 -ūs), 阳性, 单数, 夺格(-ū)  
+&emsp;&emsp;&emsp;**tuō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **tuus, tua, tuum**  
+&emsp;&emsp;&emsp;&emsp;翻译: your, 你的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词, 阳性, 单数, 夺格(-ō)  
+&emsp;&emsp;&emsp;**tuā**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词, 阴性, 单数, 夺格(-ā)  
+&emsp;&emsp;&emsp;**fidē**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **fidēs, fidēī or fidē or fidī**  
+&emsp;&emsp;&emsp;&emsp;翻译: faith, 信念  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第五变格法名词(单数主格 -ēs), 阴性, 单数, 夺格(-ē)  
 
 * * *  
 
