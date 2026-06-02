@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-01 T0:00:00 +00:00
+date: 2026-06-02 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -15,11 +15,55 @@ categories: posts
 
 * * *  
 
+#### 2026-06-02 我吃饭是为了活着, 而非活着为了吃饭.  
+
+> Edō ut vīvam, nōn vīvō ut edam.  
+> 造句尝试: Veniō ut vincam, et veniō ut videam (我来是为了征服, 也是为了看见 | I come so that I can conquer, and I come so that I can see).  
+
+&emsp;&emsp;**英文翻译**: I eat so that I can live; I do not live so that I can eat.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**edō, edam**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **edō, edere**  
+&emsp;&emsp;&emsp;&emsp;翻译: to eat, 吃饭  
+&emsp;&emsp;&emsp;&emsp;句内词性(**edō**): 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;&emsp;句内词性(**edam**): 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 虚拟式  
+&emsp;&emsp;&emsp;**ut**  
+&emsp;&emsp;&emsp;&emsp;词性: conj. 连接词  
+&emsp;&emsp;&emsp;&emsp;翻译: so that, 为了, 以至于  
+&emsp;&emsp;&emsp;**vīvam, vīvō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **vīvō, vīvere**  
+&emsp;&emsp;&emsp;&emsp;翻译: to live, 活着  
+&emsp;&emsp;&emsp;&emsp;句内词性(vīvam): 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 虚拟式  
+&emsp;&emsp;&emsp;&emsp;句内词性(vīvō): 第三变位法动词(不定式 -ere), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**nōn**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-11  
+&emsp;&emsp;&emsp;&emsp;翻译: not, 不  
+&emsp;&emsp;&emsp;**veniō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **veniō, venīre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I come, 我来  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变位法动词(不定式 -īre), 第一人称, 单数, 主动, 现在, 直陈式  
+&emsp;&emsp;&emsp;&emsp;首次出现: 2026-05-23  
+&emsp;&emsp;&emsp;**vincam**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **vincō, vincere**  
+&emsp;&emsp;&emsp;&emsp;翻译: I may conquer, 我会征服  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 主动, 现在, 虚拟式  
+&emsp;&emsp;&emsp;&emsp;首次出现: 2026-05-23  
+&emsp;&emsp;&emsp;**et**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;&emsp;翻译: and, 和  
+&emsp;&emsp;&emsp;**videam**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **videō, vidēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I may see, 我会看见  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第一人称, 单数, 主动, 现在, 虚拟式  
+&emsp;&emsp;&emsp;&emsp;首次出现: 2026-05-23  
+
+* * *  
+
 #### 2026-06-01 让我们欢乐吧, 趁我们还年轻.  
 
 > **(祝儿童节快乐; 并缅怀所有战争中死难的孩子们)**  
 > Gaudeāmus igitur iuvenēs dum sumus.  
-> 造句尝试: Servēmus igitur iuvenēs dum sunt (Let us protect then while they are young | 让我们守护孩子们, 趁他们还年轻).  
+> 造句尝试: Servēmus igitur iuvenēs dum sunt (让我们守护孩子们, 趁他们还年轻 | Let us protect then while they are young).  
 
 &emsp;&emsp;**英文翻译**: Let us rejoice then while we are young.  
 &emsp;&emsp;**解析**:  
