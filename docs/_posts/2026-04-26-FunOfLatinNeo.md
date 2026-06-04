@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-02 T0:00:00 +00:00
+date: 2026-06-04 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,48 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-06-04 你将归于尘土..  
+
+> Pulvis es et in pulverem revertēris.  
+> 造句尝试: Pulvis sumus et in pulverēs revertēmur (We are ashes and we will return into ashes | 我们将归于尘土.).  
+
+&emsp;&emsp;**英文翻译**: You are ashes and you shall return into ashes.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**pulvis**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **pulvis, pulveris**  
+&emsp;&emsp;&emsp;&emsp;翻译: dust, powder, 尘土  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阳性, 单数, 主格(-is)/造句尝试中用单数表示物质名词总体  
+&emsp;&emsp;&emsp;**pulverem**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阳性, 单数, 宾格(-em)  
+&emsp;&emsp;&emsp;**pulverēs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阳性, 复数, 主格(-ēs)/宾格(-ēs)  
+&emsp;&emsp;&emsp;**es**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-08  
+&emsp;&emsp;&emsp;&emsp;翻译: you are, 你是  
+&emsp;&emsp;&emsp;**sumus**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-06-01  
+&emsp;&emsp;&emsp;&emsp;翻译: we are, 我们是  
+&emsp;&emsp;&emsp;**et**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;&emsp;翻译: and, 和  
+&emsp;&emsp;&emsp;**in**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-10  
+&emsp;&emsp;&emsp;&emsp;翻译: in, at, on, into, 在, 向...之中  
+&emsp;&emsp;&emsp;**revertēris**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **revertor, revertī**  
+&emsp;&emsp;&emsp;&emsp;翻译: shall return, 将回归  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ī), 第二人称, 单数, 主动, 将来, 直陈式  
+&emsp;&emsp;&emsp;**revertēmur**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ī), 第一人称, 复数, 主动, 将来, 直陈式  
 
 * * *  
 
