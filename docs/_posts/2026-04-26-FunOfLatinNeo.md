@@ -15,10 +15,10 @@ categories: posts
 
 * * *  
 
-#### 2026-06-04 你将归于尘土..  
+#### 2026-06-04 你将归于尘土.  
 
 > Pulvis es et in pulverem revertēris.  
-> 造句尝试: Pulvis sumus et in pulverēs revertēmur (We are ashes and we will return into ashes | 我们将归于尘土.).  
+> 造句尝试: Pulvis sumus et in pulverēs revertēmur (We are ashes and we will return into ashes | 我们将归于尘土).  
 
 &emsp;&emsp;**英文翻译**: You are ashes and you shall return into ashes.  
 &emsp;&emsp;**解析**:  
