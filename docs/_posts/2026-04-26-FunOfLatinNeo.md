@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-04 T0:00:00 +00:00
+date: 2026-06-05 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -15,10 +15,39 @@ categories: posts
 
 * * *  
 
+#### 2026-06-05 真理是有力的.  
+
+> Fortis est vēritās.  
+> 造句尝试: Sophisma est imbēcille (谬误是无力的 | A sophism is weak).  
+
+&emsp;&emsp;**英文翻译**: Truth is strong.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**fortis**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **fortis, fortis, forte**  
+&emsp;&emsp;&emsp;&emsp;翻译: strong, powerful, 有力的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法形容词(单数属格 -is), 阴性(与 vēritās 相同), 单数, 主格  
+&emsp;&emsp;&emsp;**est**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-28  
+&emsp;&emsp;&emsp;&emsp;翻译: is, 是  
+&emsp;&emsp;&emsp;**vēritās**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **vēritās, vēritātis**  
+&emsp;&emsp;&emsp;&emsp;翻译: truth, 真理  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -tātis), 阴性, 单数, 主格(-ās)  
+&emsp;&emsp;&emsp;**sophisma**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sophisma, sophismatis**  
+&emsp;&emsp;&emsp;&emsp;翻译: a false conclusion, 错误结论, 谬误  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -matis, 不等音节非 -i 分支), 中性, 单数, 主格  
+&emsp;&emsp;&emsp;**imbēcille**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **imbēcillis, imbēcillis, imbēcille**  
+&emsp;&emsp;&emsp;&emsp;翻译: weak, 虚弱的, 无力的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法形容词(单数属格 -is), 中性(与 sophisma 相同), 单数, 主格  
+
+* * *  
+
 #### 2026-06-04 你将归于尘土.  
 
 > Pulvis es et in pulverem revertēris.  
-> 造句尝试: Pulvis sumus et in pulverēs revertēmur (We are ashes and we will return into ashes | 我们将归于尘土).  
+> 造句尝试: Pulvis sumus et in pulverēs revertēmur (我们将归于尘土 | We are ashes and we will return into ashes).  
 
 &emsp;&emsp;**英文翻译**: You are ashes and you shall return into ashes.  
 &emsp;&emsp;**解析**:  
