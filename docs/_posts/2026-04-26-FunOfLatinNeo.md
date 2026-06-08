@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-06 T0:00:00 +00:00
+date: 2026-06-08 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,35 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+#### 2026-06-08 我看见, 我沉默.  
+
+> Videō et taceō.  
+> 造句尝试: Accipiō et narrō (我听见, 我讲述 | I hear and I tell).  
+
+&emsp;&emsp;**英文翻译**: I see and I am silent.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**videō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **videō, vidēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I see, 我看见  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第一人称, 单数, 主动, 现在, 直陈式  
+&emsp;&emsp;&emsp;&emsp;首次出现: 2026-05-17  
+&emsp;&emsp;&emsp;**et**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;&emsp;翻译: and, 和  
+&emsp;&emsp;&emsp;**taceō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **taceō, tacēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I am silent, 我沉默  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;&emsp;首次出现: 2026-05-17  
+&emsp;&emsp;&emsp;**accipiō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **accipiō, accipere**  
+&emsp;&emsp;&emsp;&emsp;翻译: I hear, 我听见  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(-iō 型混合变位), 第一人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**narrō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **narrō, narrāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I tell, 我讲述  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 现在, 主动, 直陈式  
 
 #### 2026-06-06 上午.  
 
