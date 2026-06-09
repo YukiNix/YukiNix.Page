@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-08 T0:00:00 +00:00
+date: 2026-06-09 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,62 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+#### 2026-06-09 太阳之下, 没有新事.  
+
+> Nihil sub sōle novum.  
+> 谚语拓展:  
+> &emsp;&emsp;Quid est quod fuit? Ipsum quod futūrum est (已有之物, 后必再有 | What is it that has been? The same thing that will be).  
+> &emsp;&emsp;Quid est quod factum est? Ipsum quod faciendum est (已行之事, 后必再行 | What is it that has been done? The same thing that will be done).  
+
+&emsp;&emsp;**英文翻译**: Nothing new under the sun.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**nihil**  
+&emsp;&emsp;&emsp;&emsp;句内词性: pron. 代词  
+&emsp;&emsp;&emsp;&emsp;翻译: nothing, 没有事物  
+&emsp;&emsp;&emsp;**novum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **novus, nova, novum**  
+&emsp;&emsp;&emsp;&emsp;翻译: new, 新的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一/二变格法形容词(单数阳性属格 -ī, 阴性属格 -ae), 中性, 单数, 主格(-um)  
+&emsp;&emsp;&emsp;**sub**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-28  
+&emsp;&emsp;&emsp;&emsp;翻译: under, 下方  
+&emsp;&emsp;&emsp;**sōle**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sōl, sōlis**  
+&emsp;&emsp;&emsp;&emsp;翻译: sun, 太阳  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(单数属格 -is), 阳性, 单数, 夺格  
+&emsp;&emsp;&emsp;**quid**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **quis/quī/quei, quae/quis/qua, quid**  
+&emsp;&emsp;&emsp;&emsp;翻译: what, ...的事物  
+&emsp;&emsp;&emsp;&emsp;句内词性: 名词性代词, 中性, 单数, 主格  
+&emsp;&emsp;&emsp;**est**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-28  
+&emsp;&emsp;&emsp;&emsp;翻译: is, 是，存在  
+&emsp;&emsp;&emsp;**fuit**  
+&emsp;&emsp;&emsp;&emsp;参考: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: has been, existed, 存在过的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 第三人称, 单数, 主动, 完成, 直陈式  
+&emsp;&emsp;&emsp;**futūrum**  
+&emsp;&emsp;&emsp;&emsp;参考: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: will exist, 将存在的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 不规则动词, 主动, 将来, 分词(作形容词, 中性, 单数, 主格)  
+&emsp;&emsp;&emsp;**quod**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **quī, quae, quod**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-27  
+&emsp;&emsp;&emsp;&emsp;翻译: what, ...的事物  
+&emsp;&emsp;&emsp;&emsp;句内词性: 名词性代词, 中性, 单数, 主格  
+&emsp;&emsp;&emsp;**ipsum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **ipse, ipsa, ipsum/ipsud**  
+&emsp;&emsp;&emsp;&emsp;翻译: itself, 它本身  
+&emsp;&emsp;&emsp;&emsp;句内词性: 代词格限定词, 中性(单数主格 -um), 单数, 主格  
+&emsp;&emsp;&emsp;**factum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **factus, facta, factum**  
+&emsp;&emsp;&emsp;&emsp;翻译: done, 已被做的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词, 被动, 完成, 分词(作形容词, 中性, 单数, 主格)  
+&emsp;&emsp;&emsp;**faciendum**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **faciendus, facienda, faciendum**  
+&emsp;&emsp;&emsp;&emsp;翻译: to be done, 将被做的事  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词, 被动, 将来, 分词(作形容词, 中性, 单数, 主格)  
 
 #### 2026-06-08 我看见, 我沉默.  
 
