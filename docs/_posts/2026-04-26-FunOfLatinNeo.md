@@ -13,6 +13,28 @@ categories: posts
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
 
+#### 2026-06-12 缺席.  
+
+> In absentia.  
+> 造句尝试: In āctū (实际存在 | In actuality).  
+
+&emsp;&emsp;**英文翻译**: In absence.  
+&emsp;&emsp;**解析**:  
+
+&emsp;&emsp;&emsp;**in**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-10  
+&emsp;&emsp;&emsp;&emsp;翻译: in, at, on, into, 在, 向...之中  
+
+&emsp;&emsp;&emsp;**absentia**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **absentia, absentiae**  
+&emsp;&emsp;&emsp;&emsp;翻译: absence, 缺席  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(单数属格 -ae), 阴性, 单数, 夺格  
+
+&emsp;&emsp;&emsp;**āctū**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **āctus, āctūs**  
+&emsp;&emsp;&emsp;&emsp;翻译: act, 存在  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变格法名词(单数属格 -ae), 阳性, 单数, 夺格  
+
 #### 2026-06-10 我的名字是禰夕.  
 
 > Mihi nōmen est Nix.  
