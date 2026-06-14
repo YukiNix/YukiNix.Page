@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-10 T0:00:00 +00:00
+date: 2026-06-14 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -13,6 +13,38 @@ categories: posts
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
 
+#### 2026-06-14 请认识你自己.  
+
+> Nōsce tē ipsum.  
+> 造句尝试: Nōvī mē ipsam (我认识了自己 | I have known myself).  
+
+&emsp;&emsp;**英文翻译**: Know yourself.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**nōsce**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **nōscō, nōscere**  
+&emsp;&emsp;&emsp;&emsp;翻译: know, 认识  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第二人称, 单数, 现在, 主动, 命令式  
+&emsp;&emsp;&emsp;**nōvī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: (同上)  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第一人称, 单数, 完成, 主动, 直陈式  
+&emsp;&emsp;&emsp;**tē**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-08  
+&emsp;&emsp;&emsp;&emsp;翻译: you, 你  
+&emsp;&emsp;&emsp;**ipsum**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-06-09  
+&emsp;&emsp;&emsp;&emsp;词典形式: **ipse, ipsa, ipsum/ipsud**  
+&emsp;&emsp;&emsp;&emsp;翻译: yourself, 你自己  
+&emsp;&emsp;&emsp;&emsp;句内词性: 代词格限定词, 阳性, 单数, 宾格  
+&emsp;&emsp;&emsp;**ipsam**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-06-09  
+&emsp;&emsp;&emsp;&emsp;词典形式: (同上)  
+&emsp;&emsp;&emsp;&emsp;翻译: myself, 我自己  
+&emsp;&emsp;&emsp;&emsp;句内词性: 代词格限定词, 阴性, 单数, 宾格  
+&emsp;&emsp;&emsp;**mē**  
+&emsp;&emsp;&emsp;&emsp;词性: pron. 代词  
+&emsp;&emsp;&emsp;&emsp;翻译: me, 我  
+
 #### 2026-06-12 缺席.  
 
 > In absentia.  
@@ -20,16 +52,13 @@ categories: posts
 
 &emsp;&emsp;**英文翻译**: In absence.  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**in**  
 &emsp;&emsp;&emsp;&emsp;参考: 2026-05-10  
 &emsp;&emsp;&emsp;&emsp;翻译: in, at, on, into, 在, 向...之中  
-
 &emsp;&emsp;&emsp;**absentia**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **absentia, absentiae**  
 &emsp;&emsp;&emsp;&emsp;翻译: absence, 缺席  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(单数属格 -ae), 阴性, 单数, 夺格  
-
 &emsp;&emsp;&emsp;**āctū**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **āctus, āctūs**  
 &emsp;&emsp;&emsp;&emsp;翻译: act, 存在  
