@@ -13,6 +13,8 @@ categories: posts
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
 
+* * *  
+
 #### 2026-06-15 不为学院而学术, 我们为人生而学术.  
 
 > Nōn scholae, sed vītae discimus.  
@@ -43,6 +45,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词典形式: **cōnsummātiō, cōnsummātiōnis**  
 &emsp;&emsp;&emsp;&emsp;翻译: conclusion, 结论  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阴性, 单数, 与格(-ī)  
+
+* * *  
 
 #### 2026-06-14 请认识你自己.  
 
@@ -76,6 +80,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词性: pron. 代词  
 &emsp;&emsp;&emsp;&emsp;翻译: me, 我  
 
+* * *  
+
 #### 2026-06-12 缺席.  
 
 > In absentia.  
@@ -94,6 +100,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词典形式: **āctus, āctūs**  
 &emsp;&emsp;&emsp;&emsp;翻译: act, 存在  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第四变格法名词(单数属格 -ae), 阳性, 单数, 夺格  
+
+* * *  
 
 #### 2026-06-10 我的名字是禰夕.  
 
@@ -123,6 +131,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;辞書形式: **雪(ゆき)**  
 &emsp;&emsp;&emsp;&emsp;翻译: snow, 雪  
 &emsp;&emsp;&emsp;&emsp;外来词: 日本语  
+
+* * *  
 
 #### 2026-06-09 太阳之下, 没有新事.  
 
@@ -180,6 +190,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;翻译: to be done, 将被做的事  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词, 被动, 将来, 分词(作形容词, 中性, 单数, 主格)  
 
+* * *  
+
 #### 2026-06-08 我看见, 我沉默.  
 
 > Videō et taceō.  
@@ -208,6 +220,8 @@ categories: posts
 &emsp;&emsp;&emsp;&emsp;词典形式: **narrō, narrāre**  
 &emsp;&emsp;&emsp;&emsp;翻译: I tell, 我讲述  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 现在, 主动, 直陈式  
+
+* * *  
 
 #### 2026-06-06 上午.  
 
