@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-14 T0:00:00 +00:00
+date: 2026-06-15 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,37 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+#### 2026-06-15 不为学院而学术, 我们为人生而学术.  
+
+> Nōn scholae, sed vītae discimus.  
+> 造句尝试: Nōn cōnsummātiōnī, sed vītae discimus (不为了结论而学习, 我们为人生而学习 | Not for conclusion, but for life do we study).  
+
+&emsp;&emsp;**英文翻译**: Not for school, but for life do we study.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**nōn**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-11  
+&emsp;&emsp;&emsp;&emsp;翻译: not, 不, (否定)  
+&emsp;&emsp;&emsp;**scholae**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **schola, scholae**  
+&emsp;&emsp;&emsp;&emsp;翻译: school, 学院, 学习场所  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(主格单数 -a, 属格单数 -ae), 阴性, 单数, 与格(-ae)  
+&emsp;&emsp;&emsp;**sed**  
+&emsp;&emsp;&emsp;&emsp;词性: conj. 连接词  
+&emsp;&emsp;&emsp;&emsp;翻译: but, 但是, (转折)  
+&emsp;&emsp;&emsp;**vītae**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-11  
+&emsp;&emsp;&emsp;&emsp;词典形式: **vīta, vītae**  
+&emsp;&emsp;&emsp;&emsp;翻译: life, 人生  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变格法名词(主格单数 -a, 属格单数 -ae), 阴性, 单数, 与格(-ae)  
+&emsp;&emsp;&emsp;**discimus**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **discō, discere**  
+&emsp;&emsp;&emsp;&emsp;翻译: we learn, 我们学习  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere, 非 -i- 支), 第一人称, 复数, 现在, 主动, 直陈式(-imus)  
+&emsp;&emsp;&emsp;**cōnsummātiōnī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **cōnsummātiō, cōnsummātiōnis**  
+&emsp;&emsp;&emsp;&emsp;翻译: conclusion, 结论  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阴性, 单数, 与格(-ī)  
 
 #### 2026-06-14 请认识你自己.  
 
