@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-15 T0:00:00 +00:00
+date: 2026-06-16 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,65 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-06-16 拉丁语的第一变格法.  
+
+> 来自拉丁语的第一变格法词: 单数主格形式通常以 -a 结尾, 单数属格形式通常以 -ae 结尾.  
+> 来自希腊语的第一变格法词: 单数主格形式通常以 -ē/-ēs/-ās 结尾, 单数属格形式通常以 -ēs/-ae 结尾.  
+> 参考: 2026-04-29, 拉丁语名词的"性格".  
+
+&emsp;&emsp;**变格方法**:  
+&emsp;&emsp;&emsp;在单数属格形式下, 去除属格词尾(得到**词干**), 再向词干添加变格词尾.  
+&emsp;&emsp;&emsp;第一变格法在不同情况下, 复数的变格通常相同.  
+&emsp;&emsp;&emsp;第一/二变格法形容词的**阴性形式**通常采用第一变格法.  
+
+&emsp;&emsp;**语法性**:  
+&emsp;&emsp;&emsp;**形容词**:  
+&emsp;&emsp;&emsp;&emsp;阴性.  
+&emsp;&emsp;&emsp;**拉丁语源名词**:  
+&emsp;&emsp;&emsp;&emsp;阴性.  
+&emsp;&emsp;&emsp;**希腊语源名词**:  
+&emsp;&emsp;&emsp;&emsp;**单数主格 -ē, 单数属格 -ēs**: 阴性.  
+&emsp;&emsp;&emsp;&emsp;**单数主格 -ēs/-ās, 单数属格 -ae**: 阳性.  
+
+&emsp;&emsp;**第一变格法**:  
+&emsp;&emsp;&emsp;**形容词/拉丁语源名词, 单数**: (-a, -ae)  
+&emsp;&emsp;&emsp;&emsp;**主格**: -a  
+&emsp;&emsp;&emsp;&emsp;**属格**: -ae  
+&emsp;&emsp;&emsp;&emsp;**与格**: -ae  
+&emsp;&emsp;&emsp;&emsp;**宾格**: -am  
+&emsp;&emsp;&emsp;&emsp;**夺格**: -ā  
+&emsp;&emsp;&emsp;&emsp;**呼格**: -a  
+&emsp;&emsp;&emsp;**希腊语源名词, 单数**: (-ē, -ēs)  
+&emsp;&emsp;&emsp;&emsp;**主格**: -ē  
+&emsp;&emsp;&emsp;&emsp;**属格**: -ēs  
+&emsp;&emsp;&emsp;&emsp;**与格**: -ae(同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**宾格**: -ēn  
+&emsp;&emsp;&emsp;&emsp;**夺格**: -ē  
+&emsp;&emsp;&emsp;&emsp;**呼格**: -ē  
+&emsp;&emsp;&emsp;**希腊语源名词, 单数**: (-ēs, -ae)  
+&emsp;&emsp;&emsp;&emsp;**主格**: -ēs  
+&emsp;&emsp;&emsp;&emsp;**属格**: -ae(同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**与格**: -ae(同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**宾格**: -ēn(同上, 希腊语源)  
+&emsp;&emsp;&emsp;&emsp;**夺格**: -ē(同上, 希腊语源)  
+&emsp;&emsp;&emsp;&emsp;**呼格**: -ē(同上, 希腊语源)  
+&emsp;&emsp;&emsp;**希腊语源名词, 单数**: (-ās, -ae)  
+&emsp;&emsp;&emsp;&emsp;**主格**: -ās  
+&emsp;&emsp;&emsp;&emsp;**属格**: -ae(同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**与格**: -ae(同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**宾格**: -ān(希腊式)/-am(拉丁化, 同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**夺格**: -ā(同拉丁语源)  
+&emsp;&emsp;&emsp;&emsp;**呼格**: -ā  
+&emsp;&emsp;&emsp;**第一变格法复数**:  
+&emsp;&emsp;&emsp;&emsp;**主格**: -ae  
+&emsp;&emsp;&emsp;&emsp;**属格**: -ārum  
+&emsp;&emsp;&emsp;&emsp;**与格**: -īs  
+&emsp;&emsp;&emsp;&emsp;**宾格**: -ās  
+&emsp;&emsp;&emsp;&emsp;**夺格**: -īs  
+&emsp;&emsp;&emsp;&emsp;**呼格**: -ae  
 
 * * *  
 
