@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-16 T0:00:00 +00:00
+date: 2026-06-21 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,24 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-06-21 我将捍卫.  
+
+> Tuēbor.  
+> 造句尝试: Dōnābō (我将宽恕 | I will forgive).  
+
+&emsp;&emsp;**英文翻译**: I will protect.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**tuēbor**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **tueor, tuērī**  
+&emsp;&emsp;&emsp;&emsp;翻译: I will protect, 我将捍卫  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(异相动词, 不定式 -ērī), 第一人称, 单数, 将来, 主动, 直陈式  
+&emsp;&emsp;&emsp;**dōnābō**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **dōnō, dōnāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: I will forgive, 我将宽恕  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(不定式 -āre), 第一人称, 单数, 将来, 主动, 直陈式  
 
 * * *  
 
