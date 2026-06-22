@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-21 T0:00:00 +00:00
+date: 2026-06-22 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,31 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-06-22 旅行者! 请等一下.  
+
+> Siste viātor.  
+> 造句尝试: Reverte viātor (旅行者! 请回吧 | Turn back, traveller ).  
+
+&emsp;&emsp;**英文翻译**: Stop, traveller.  
+&emsp;&emsp;**解析**:  
+
+&emsp;&emsp;&emsp;**siste**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **sistō, sistere**  
+&emsp;&emsp;&emsp;&emsp;翻译: stop, 请你停下  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第二人称, 单数, 现在, 主动, 命令式  
+
+&emsp;&emsp;&emsp;**viātor**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **viātor, viātōris**  
+&emsp;&emsp;&emsp;&emsp;翻译: traveller! 旅行者!  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阳性, 单数, 呼格  
+
+&emsp;&emsp;&emsp;**reverte**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **revertō, revertere**  
+&emsp;&emsp;&emsp;&emsp;翻译: turn back, 请你返回  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第二人称, 单数, 现在, 主动, 命令式  
 
 * * *  
 
