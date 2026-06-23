@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-06-22 T0:00:00 +00:00
+date: 2026-06-23 T0:00:00 +00:00
 categories: posts
 ---
 
@@ -15,24 +15,47 @@ categories: posts
 
 * * *  
 
+#### 2026-06-23 今天归我, 明天归你.  
+
+> Hodiē mihi, crās tibi.  
+> 造句尝试: Hodiē tibi, crās mihi (今天归你, 明天归我 | Today to you, tomorrow to me).  
+
+&emsp;&emsp;**英文翻译**: Today to me, tomorrow to you.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**hodiē**  
+&emsp;&emsp;&emsp;&emsp;句内词性: adv. 副词  
+&emsp;&emsp;&emsp;&emsp;翻译: today, 今天  
+&emsp;&emsp;&emsp;**mihi**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-06-10, 2026-05-08  
+&emsp;&emsp;&emsp;&emsp;词典形式: **ego, meī**  
+&emsp;&emsp;&emsp;&emsp;翻译: to me, 给我  
+&emsp;&emsp;&emsp;&emsp;句内词性: 人称代词, 第一人称, 单数, 与格  
+&emsp;&emsp;&emsp;**crās**  
+&emsp;&emsp;&emsp;&emsp;句内词性: adv. 副词  
+&emsp;&emsp;&emsp;&emsp;翻译: tomorrow, 明天  
+&emsp;&emsp;&emsp;**tibi**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-06-10  
+&emsp;&emsp;&emsp;&emsp;词典形式: **tū, tuī**  
+&emsp;&emsp;&emsp;&emsp;翻译: to you, 给你  
+&emsp;&emsp;&emsp;&emsp;句内词性: 人称代词, 第二人称, 单数, 与格  
+
+* * *  
+
 #### 2026-06-22 旅行者! 请等一下.  
 
 > Siste viātor.  
-> 造句尝试: Reverte viātor (旅行者! 请回吧 | Turn back, traveller ).  
+> 造句尝试: Reverte viātor (旅行者! 请回吧 | Turn back, traveller).  
 
 &emsp;&emsp;**英文翻译**: Stop, traveller.  
 &emsp;&emsp;**解析**:  
-
 &emsp;&emsp;&emsp;**siste**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **sistō, sistere**  
 &emsp;&emsp;&emsp;&emsp;翻译: stop, 请你停下  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词(不定式 -ere), 第二人称, 单数, 现在, 主动, 命令式  
-
 &emsp;&emsp;&emsp;**viātor**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **viātor, viātōris**  
 &emsp;&emsp;&emsp;&emsp;翻译: traveller! 旅行者!  
 &emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(属格单数 -is), 阳性, 单数, 呼格  
-
 &emsp;&emsp;&emsp;**reverte**  
 &emsp;&emsp;&emsp;&emsp;词典形式: **revertō, revertere**  
 &emsp;&emsp;&emsp;&emsp;翻译: turn back, 请你返回  
