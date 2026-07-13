@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-07-03 T0:01:00 +00:00
+date: 2026-07-13 T0:01:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,36 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-07-13 好好去爱的人, 也能好好改正.  
+
+> Quī bene amat, bene castīgat.  
+> 造句尝试: Quī bene amat, bene meminit (好好去爱的人, 也能好好记住 | Who loves well, remembers well).  
+
+&emsp;&emsp;**英文翻译**: Who loves well, corrects well.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**quī**  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-08  
+&emsp;&emsp;&emsp;&emsp;翻译: who, 谁, ...的人  
+&emsp;&emsp;&emsp;&emsp;句内词性: 阳性, 单数, 主格  
+&emsp;&emsp;&emsp;**bene**  
+&emsp;&emsp;&emsp;&emsp;句内词性: adv. 副词  
+&emsp;&emsp;&emsp;&emsp;翻译: well, 很好地(做某事)  
+&emsp;&emsp;&emsp;**amat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **amō, amāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: loves, 爱  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(词根 -a, 不定式 -āre), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;&emsp;首次出现: 2026-04-27  
+&emsp;&emsp;&emsp;**castīgat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **castīgō, castīgāre**  
+&emsp;&emsp;&emsp;&emsp;翻译: castigates, corrects, 修正, 改过  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第一变位法动词(词根 -a, 不定式 -āre), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**meminit**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **meminī, meminisse**  
+&emsp;&emsp;&emsp;&emsp;翻译: remembers, 记得  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变位法动词, 缺陷动词(完成时系统), 第三人称, 单数, 现在, 主动, 直陈式  
 
 * * *  
 
