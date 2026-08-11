@@ -25,9 +25,20 @@ permalink: /about/
 
 &emsp;&emsp;点击左上方[**Yuki Nix**](/ "主页")访问我的博客看看如何.  
 &emsp;&emsp;主页上能找到我的歌单[**禰夕百首**](/posts/2021/12/22/MusicShare.html "推荐歌单")以及书单[**禰夕百本**](/posts/2026/03/11/BookShelf.html "推荐书单"). 听听歌, 读读书, 生活很不错.  
-&emsp;&emsp;也可以试试欣赏[「**涼宮ハルヒ**」](https://en.wikipedia.org/wiki/Haruhi_Suzumiya "凉宫春日系列 Wiki")系列与[「**Serial Experiments Lain**」](https://en.wikipedia.org/wiki/Serial_Experiments_Lain "Lain 系列实验 Wiki"), 笔者对它们甚是喜欢.  
+&emsp;&emsp;也可以试试欣赏[「**涼宮ハルヒ**」](https://en.wikipedia.org/wiki/Haruhi_Suzumiya "凉宫春日系列 Wiki")系列与[「**Serial Experiments Lain**」](https://en.wikipedia.org/wiki/Serial_Experiments_Lain "Lain 系列实验 Wiki"), 我对它们甚是喜欢.  
 &emsp;&emsp;你或许在现实世界里亲手收到了我赠予的一张折纸信封, 如果没有, 请记得(在见面时)向我索取. 其中会有我的移动电话号码, 请将它作为我们的秘密吧.  
 
+<h3>担心通信安全吗?</h3>  
+
+&emsp;&emsp;在你认为有必要时, 可以通过下面的方法与我进行安全通信.  
+
+&emsp;&emsp;**使用 GPG 加密邮件**: [点击这里](/include/YukiNix_GPGPub.asc "下载我的公钥文件")下载我的公钥文件, [点击这里](#EMailSection "跳转到 电子邮件 章节")跳转到"电子邮件"章节;  
+&emsp;&emsp;**从 Onion 网络访问 Liaison(联络站)**; [点击这里](#LiaisonSection "跳转到 Liaison 章节")跳转到 Liaison 章节;  
+&emsp;&emsp;**使用加密通信软件**: [点击这里](#IMSection "跳转到 即时通讯 章节")跳转到"即时通讯"章节, 查看 SimpleX 或 Session 取得相关信息.  
+
+&emsp;&emsp;**注意**: 即使安全可由算法和设计保证, 但不正确地使用它们依然会招致危险.  
+
+<div id="LiaisonSection"></div>
 <h3>Liaison(联络站)</h3>  
 
 &emsp;&emsp;**无论何处, 彼此相接.**  
@@ -37,6 +48,7 @@ permalink: /about/
 &emsp;&emsp;**Onion**: [http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion](http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion "联络站 Onion 地址")  
 &emsp;&emsp;**注意**: 这是我自己的设计, 并没有部署在公共或商业设施上. 如果它下线了, 请不要犹豫地切换到别的方式.  
 
+<div id="EMailSection"></div>
 <h3>电子邮件</h3>  
 
 &emsp;&emsp;**不必车马, 及时送达.**  
@@ -45,6 +57,16 @@ permalink: /about/
 &emsp;&emsp;**电子邮件**: [nixyuki@outlook.com](mailto:\\nixyuki@outlook.comm "Send E-Mail to me.")  
 &emsp;&emsp;**合适的时间**: 00:00-12:00 UTC;  
 &emsp;&emsp;**注意**: 垃圾邮件来源将永久被拒收.  
+
+<div id="IMSection"></div>
+<h3>即时通讯</h3>  
+
+&emsp;&emsp;**除了快, 只有快.**  
+&emsp;&emsp;即时通信是一种数字玩具, 它不是通信的正式途径. 请不要把它当作实时传递消息的工具, 我也只在空闲时才会查阅它们.  
+
+&emsp;&emsp;**Session ID**: 05228a74179d79e613a8cfb96c628dc25b8b9b902487c097bca396db8f1e703b4d;  
+&emsp;&emsp;**SimpleX Address**: https://smp9.simplex.im/a#HlsdGyt66EJGlceHUpXFIaFzdETFX404yDhvrf5mAyQ;  
+&emsp;&emsp;**注意**: 部分方式需要双方同时在线, 否则会无法送达.  
 
 <h3>无线电</h3>
 
@@ -64,15 +86,6 @@ permalink: /about/
 &emsp;&emsp;**可能的时间**: 02:00-16:00 UTC;  
 &emsp;&emsp;**QSL方式**: eQSL, E-Mail, 纸质 QSL (可联系我寄送纸质卡片. 但出于隐私安全考虑, 我不接收实体卡片);  
 &emsp;&emsp;**注意**: 频率上并非总有人值守.  
-
-<h3>即时通讯</h3>  
-
-&emsp;&emsp;**除了快, 只有快.**  
-&emsp;&emsp;即时通信是一种数字玩具, 它不是通信的正式途径. 请不要把它当作实时传递消息的工具, 我也只在空闲时才会查阅它们.  
-
-&emsp;&emsp;**Session ID**: 05228a74179d79e613a8cfb96c628dc25b8b9b902487c097bca396db8f1e703b4d;  
-&emsp;&emsp;**SimpleX Address**: https://smp9.simplex.im/a#HlsdGyt66EJGlceHUpXFIaFzdETFX404yDhvrf5mAyQ;  
-&emsp;&emsp;**注意**: 部分方式需要双方同时在线, 否则会无法送达.  
 
 <h3>移动电话</h3>
 
