@@ -48,6 +48,7 @@ permalink: /about/
 &emsp;&emsp;**Onion**: [http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion](http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion "联络站 Onion 地址")  
 &emsp;&emsp;**I2P**: [http://bwooavigzfze4nlziajhgx7woktwcag6bpbiuax6g7ycdouop2vq.b32.i2p](http://bwooavigzfze4nlziajhgx7woktwcag6bpbiuax6g7ycdouop2vq.b32.i2p "联络站 I2P 地址")  
 &emsp;&emsp;**注意**: 这是我自己的设计, 并没有部署在公共或商业设施上. 如果它下线了, 请不要犹豫地切换到别的方式.  
+&emsp;&emsp;&emsp;&emsp;部分 I2P 客户端默认使用的 HTTP/HTTPS Proxy 可能无法与 Liaison 服务器正常交互, 此时请尝试配置并使用 Socks5 Proxy.  
 
 <div id="EMailSection"></div>
 <h3>电子邮件</h3>  
