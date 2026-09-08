@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 有趣的拉丁语(持续更新)
-date: 2026-07-13 T0:01:00 +00:00
+date: 2026-09-08 T0:01:00 +00:00
 categories: posts
 ---
 
@@ -12,6 +12,54 @@ categories: posts
 &emsp;&emsp;有别于常规资料, 这里会尽可能使用带有注音符号的古典拉丁语书写方法, 以做到"看到即能读出". 关于拉丁语的标准读法(以及词性, 变格, 变位等知识), 可以参考笔者的[基础拉丁语笔记](/posts/2022/01/29/BLatin.html). 读法见第 0 章[字母](/include/BLatin/0.字母.pdf).  
 
 &emsp;&emsp;若有未解释词, 请参考过往内容.  
+
+* * *  
+
+#### 2026-09-08 有耳可听的, 就应当听.  
+
+> Sī quis habet aurēs audiendī, audiat.  
+> 造句尝试: Sī quis habet oculōs videndī, videat (有眼可看的, 就应当看 | If anyone has eyes to see, let him/her see).  
+
+&emsp;&emsp;**英文翻译**: If anyone has ears to hear, let him/her hear.  
+&emsp;&emsp;**解析**:  
+&emsp;&emsp;&emsp;**sī**  
+&emsp;&emsp;&emsp;&emsp;翻译: if, 如果  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-04-30  
+&emsp;&emsp;&emsp;**quis**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **quis/quī/quei, quae/quis/qua, quid**  
+&emsp;&emsp;&emsp;&emsp;翻译: anyone, 如果有人  
+&emsp;&emsp;&emsp;&emsp;句内词性: 名词性代词, 阳性/阴性, 单数, 主格  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-06-09  
+&emsp;&emsp;&emsp;**habet**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **habeō, habēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: own, have, 拥有  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 现在, 主动, 直陈式  
+&emsp;&emsp;&emsp;**aurēs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **auris, auris**  
+&emsp;&emsp;&emsp;&emsp;翻译: ears, 耳朵  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第三变格法名词(-ī 支), 阴性, 复数, 宾格  
+&emsp;&emsp;&emsp;**audiendī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **audiō, audīre**  
+&emsp;&emsp;&emsp;&emsp;翻译: for hearing, 为了听的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变位法动词, 动名词, 单数, 属格  
+&emsp;&emsp;&emsp;**audiat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **audiō, audīre**  
+&emsp;&emsp;&emsp;&emsp;翻译: let him/her hear, 让他/她听吧  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第四变位法动词(不定式 -īre), 第三人称, 单数, 现在, 主动, 虚拟式  
+&emsp;&emsp;&emsp;**oculōs**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **oculus, oculī**  
+&emsp;&emsp;&emsp;&emsp;翻译: eyes, 眼睛  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变格法名词(属格单数 -ī), 阳性, 复数, 宾格  
+&emsp;&emsp;&emsp;**videndī**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **videō, vidēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: for seeing, 为了看的  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词, 动名词, 单数, 属格  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-17  
+&emsp;&emsp;&emsp;**videat**  
+&emsp;&emsp;&emsp;&emsp;词典形式: **videō, vidēre**  
+&emsp;&emsp;&emsp;&emsp;翻译: let him/her see, 让他/她看吧  
+&emsp;&emsp;&emsp;&emsp;句内词性: 第二变位法动词(不定式 -ēre), 第三人称, 单数, 现在, 主动, 虚拟式  
+&emsp;&emsp;&emsp;&emsp;参考: 2026-05-17  
 
 * * *  
 
