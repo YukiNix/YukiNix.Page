@@ -78,12 +78,12 @@ permalink: /about/
 &emsp;&emsp;**呼号**: BI4AEI  
 &emsp;&emsp;**约定频率**:  
 &emsp;&emsp;&emsp;&emsp;HF(20m): 14.145 MHz, USB;  
-&emsp;&emsp;&emsp;&emsp;VHF(2m): 144.445 MHz, NFW D445N;  
+&emsp;&emsp;&emsp;&emsp;VHF(2m): 144.445 MHz, FW D445N;  
 &emsp;&emsp;**备用频率**;  
 &emsp;&emsp;&emsp;&emsp;HF(40m): 7.145 MHz, LSB;  
 &emsp;&emsp;&emsp;&emsp;HF(10m): 28.145 MHz, USB;  
 &emsp;&emsp;&emsp;&emsp;VHF(6m): 51.145 MHz, USB;  
-&emsp;&emsp;&emsp;&emsp;UHF(0.6m): 434.445 MHz, NFM D445 N;  
+&emsp;&emsp;&emsp;&emsp;UHF(0.6m): 434.445 MHz, FM D445 N;  
 &emsp;&emsp;**工作方式**: SSB, FM, Digital, CW;  
 &emsp;&emsp;**可能的时间**: 02:00-16:00 UTC;  
 &emsp;&emsp;**QSL方式**: eQSL, E-Mail, 纸质 QSL (可联系我寄送纸质卡片. 但出于隐私安全考虑, 我不接收实体卡片);  
