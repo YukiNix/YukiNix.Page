@@ -60,6 +60,25 @@ permalink: /about/
 &emsp;&emsp;**合适的时间**: 00:00-12:00 UTC;  
 &emsp;&emsp;**注意**: 垃圾邮件来源将永久被拒收.  
 
+<h3>无线电</h3>  
+
+&emsp;&emsp;**地平线阻挡的, 只是视线.**  
+&emsp;&emsp;当基础设施不再可靠, 这可能是此行星上最后的信道. 电台一直开着总有点吵, 平时还是时不时当作休闲好了.  
+
+&emsp;&emsp;**呼号**: BI4AEI  
+&emsp;&emsp;**约定频率**:  
+&emsp;&emsp;&emsp;&emsp;HF(20m): 14.145 MHz, USB;  
+&emsp;&emsp;&emsp;&emsp;VHF(2m): 144.445 MHz, FM D445N;  
+&emsp;&emsp;**备用频率**;  
+&emsp;&emsp;&emsp;&emsp;HF(40m): 7.145 MHz, LSB;  
+&emsp;&emsp;&emsp;&emsp;HF(10m): 28.145 MHz, USB;  
+&emsp;&emsp;&emsp;&emsp;VHF(6m): 51.145 MHz, USB;  
+&emsp;&emsp;&emsp;&emsp;UHF(0.6m): 434.445 MHz, FM D445 N;  
+&emsp;&emsp;**工作方式**: SSB, FM, Digital, CW;  
+&emsp;&emsp;**可能的时间**: 02:00-16:00 UTC;  
+&emsp;&emsp;**QSL方式**: eQSL, E-Mail, 纸质 QSL (可联系我寄送纸质卡片. 出于隐私安全考虑, 接收卡片的地址请另行联系我取得);  
+&emsp;&emsp;**注意**: 频率上并非总有人值守.  
+
 <div id="IMSection"></div>
 <h3>即时通讯</h3>  
 
@@ -69,25 +88,6 @@ permalink: /about/
 &emsp;&emsp;**Session ID**: 05228a74179d79e613a8cfb96c628dc25b8b9b902487c097bca396db8f1e703b4d;  
 &emsp;&emsp;**SimpleX Address**: https://smp9.simplex.im/a#HlsdGyt66EJGlceHUpXFIaFzdETFX404yDhvrf5mAyQ;  
 &emsp;&emsp;**注意**: 部分方式需要双方同时在线, 否则会无法送达.  
-
-<h3>无线电</h3>
-
-&emsp;&emsp;**地平线阻挡的, 只是视线.**  
-&emsp;&emsp;当基础设施不再可靠, 这可能是此行星上最后的信道. 电台一直开着总有点吵, 平时还是时不时当作休闲好了.  
-
-&emsp;&emsp;**呼号**: BI4AEI  
-&emsp;&emsp;**约定频率**:  
-&emsp;&emsp;&emsp;&emsp;HF(20m): 14.145 MHz, USB;  
-&emsp;&emsp;&emsp;&emsp;VHF(2m): 144.445 MHz, FW D445N;  
-&emsp;&emsp;**备用频率**;  
-&emsp;&emsp;&emsp;&emsp;HF(40m): 7.145 MHz, LSB;  
-&emsp;&emsp;&emsp;&emsp;HF(10m): 28.145 MHz, USB;  
-&emsp;&emsp;&emsp;&emsp;VHF(6m): 51.145 MHz, USB;  
-&emsp;&emsp;&emsp;&emsp;UHF(0.6m): 434.445 MHz, FM D445 N;  
-&emsp;&emsp;**工作方式**: SSB, FM, Digital, CW;  
-&emsp;&emsp;**可能的时间**: 02:00-16:00 UTC;  
-&emsp;&emsp;**QSL方式**: eQSL, E-Mail, 纸质 QSL (可联系我寄送纸质卡片. 但出于隐私安全考虑, 我不接收实体卡片);  
-&emsp;&emsp;**注意**: 频率上并非总有人值守.  
 
 <h3>移动电话</h3>
 

@@ -9,8 +9,8 @@ layout: home
 
 <!-- <audio src="/include/BGM/Index_BGM.mp3" autoplay></audio> -->
 
+<marquee>也许所有的执念, 就像四季的更迭, 没有因缘, 不需致歉. 所谓成长的起点, 就在分开的指尖, 不再留念, 一路向前.</marquee>  
 <marquee>等待着谁能够将我的心房轻轻叩击, 即使是你也仅仅驻足了片刻便离去.</marquee>  
-<marquee>Liaison(联络站) 重新开放了.</marquee>  
 
 <!-- {% include SearchEngine.html %} -->
 {% include ToLiaison.html %}
