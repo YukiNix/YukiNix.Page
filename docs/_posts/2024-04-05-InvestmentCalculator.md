@@ -7,6 +7,14 @@ categories: posts
 
 {% include JavaScripts.html %}
 
+<style>
+    .ICAlbl { display: inline-block; min-width: 11ch; }
+    #ICAtable td, #ICAtable th { text-align: left; }
+    #ICAtable input { text-align: right; }
+    #ICAtable input[type=number] { -moz-appearance: textfield; appearance: textfield; }
+    #ICAtable input[type=number]::-webkit-inner-spin-button,
+    #ICAtable input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+</style>
 <script>
     (function(){
         var $ = function(id){ return document.getElementById(id); };
@@ -85,22 +93,14 @@ categories: posts
             }
             $("ICAforecastBody").innerHTML = html;
         }
-        $("ICAtable").addEventListener("input", update);
-        $("ICAtable").addEventListener("change", update);
-        setInterval(update, 1000);
-        update();
+        document.addEventListener("DOMContentLoaded", function(){
+            $("ICAtable").addEventListener("input", update);
+            $("ICAtable").addEventListener("change", update);
+            setInterval(update, 1000);
+            update();
+        });
     })();
 </script>
-
-<style>
-    .ICAlbl { display: inline-block; min-width: 11ch; }
-    #ICAtable td, #ICAtable th { text-align: left; }
-    #ICAtable input { text-align: right; }
-    #ICAtable input[type=number] { -moz-appearance: textfield; appearance: textfield; }
-    #ICAtable input[type=number]::-webkit-inner-spin-button,
-    #ICAtable input[type=number]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
-</style>
-
 <table id="ICAtable" border="1" align="center" cellpadding="0">
     <thead>
         <tr>
