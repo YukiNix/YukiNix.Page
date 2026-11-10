@@ -11,7 +11,7 @@ categories: posts
 
 <h3>为什么不在首页?</h3>  
 
-&emsp;&emsp;你可能访问了 umaru.science() 或 nixyuki.com, 而这些地址对应的域名正在被替代.  
+&emsp;&emsp;你可能访问了 umaru.science (2021 年 05 月 22 日 至今) 或 nixyuki.com (2024 年 02 月 12 日 至今), 而这些地址对应的域名正在被替代.  
 
 <h3>接下来该去哪里?</h3>  
 
