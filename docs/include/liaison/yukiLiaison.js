@@ -1,4 +1,4 @@
-const serverAddr = "ws://liaison.nixyuki.com:8880"
+const serverAddr = "ws://liaison.yuki.observer:8880"
 openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
 
 // const serverAddr = "ws://[::1]:8880"
@@ -47,7 +47,7 @@ openpgp.initWorker({ path:'/include/liaison/openpgp.worker.min.js' });
     sysPrint("Generating PGP Key...");
     var privateKeyString;
     var generateOptions = {
-        userIds: [{ name:"yukiWebUser", email:"randomly@nixyuki.com" }],
+        userIds: [{ name:"yukiWebUser", email:"randomly@yuki.observer" }],
         numBits: 2048, passphrase: ""
     };
 

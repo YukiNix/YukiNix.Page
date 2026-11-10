@@ -44,7 +44,7 @@ permalink: /about/
 &emsp;&emsp;**无论何处, 彼此相接.**  
 &emsp;&emsp;这是一个只供你与我连结的终端界面, 也是从此处开始的最方便的联络工具. 若你担心, 此界面也提供深层网络入口.  
 
-&emsp;&emsp;**公共互联网**: [https://liaison.nixyuki.com](https://liaison.nixyuki.com "联络站地址");  
+&emsp;&emsp;**公共互联网**: [https://liaison.yuki.observer](https://liaison.yuki.observer "联络站地址");  
 &emsp;&emsp;**Onion**: [http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion](http://yv3tja4tsrkgprubhufw7aa2u47ssz4pbs6dgph74xivrdklfk2ornid.onion "联络站 Onion 地址")  
 &emsp;&emsp;**I2P**: [http://bwooavigzfze4nlziajhgx7woktwcag6bpbiuax6g7ycdouop2vq.b32.i2p](http://bwooavigzfze4nlziajhgx7woktwcag6bpbiuax6g7ycdouop2vq.b32.i2p "联络站 I2P 地址")  
 &emsp;&emsp;**注意**: 这是我自己的设计, 并没有部署在公共或商业设施上. 如果它下线了, 请不要犹豫地切换到别的方式.  
@@ -56,7 +56,7 @@ permalink: /about/
 &emsp;&emsp;**不必车马, 及时送达.**  
 &emsp;&emsp;只要同一个世界还在同一个互联网, 这是最正式的联络方式. 我会定时查阅, 及时回复.  
 
-&emsp;&emsp;**电子邮件**: [nixyuki@outlook.com](mailto:\\nixyuki@outlook.comm "Send E-Mail to me.")  
+&emsp;&emsp;**电子邮件**: [yuki@yuki.observer](mailto:\\yuki@yuki.observer "Send E-Mail to me.")  
 &emsp;&emsp;**合适的时间**: 00:00-12:00 UTC;  
 &emsp;&emsp;**注意**: 垃圾邮件来源将永久被拒收.  
 
