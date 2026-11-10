@@ -74,7 +74,7 @@ zypper in cqrlog
 
 &emsp;&emsp;读者需要注意：使用无线电设备需要遵守所在地相关法律法规。
 
-&emsp;&emsp;写在最后：作者欢迎读者与作者预约通联，详情了解本站[About](http://umaru.science/about "关于本页")页面。
+&emsp;&emsp;写在最后：作者欢迎读者与作者预约通联，详情了解本站[About](/about "关于本页")页面。
 
 <p align="right">UMRAY</p>
 <p align="right">2021.08.30</p>

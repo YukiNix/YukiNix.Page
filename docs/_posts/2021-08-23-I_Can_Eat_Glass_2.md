@@ -93,7 +93,7 @@ categories: posts
 
 ### 关于配置计算机 ###
 
-&emsp;&emsp;作者使用openSUSE Leap 15.3作为操作系统，KDE Plasma 5桌面环境，Fcitx输入法，UTC时区和国际标准单位。使用其他操作系统、桌面环境、输入法以及时区和单位标准理论上不影响读者进行同样的操作，但实际上可能带来各种未知的问题。作者仅能确保所有实例在该平台上能够顺利运行，其他问题需要读者自行处理或查看本站[About](http://umaru.science/about "关于本页")页面尝试与作者取得联系。
+&emsp;&emsp;作者使用openSUSE Leap 15.3作为操作系统，KDE Plasma 5桌面环境，Fcitx输入法，UTC时区和国际标准单位。使用其他操作系统、桌面环境、输入法以及时区和单位标准理论上不影响读者进行同样的操作，但实际上可能带来各种未知的问题。作者仅能确保所有实例在该平台上能够顺利运行，其他问题需要读者自行处理或查看本站[About](/about "关于本页")页面尝试与作者取得联系。
 
 &emsp;&emsp;关于获取openSUSE操作系统(Leap版本，即稳定版)请参考[这里](https://get.opensuse.org/leap "下载openSUSE")，关于该系统的安装及配置请参考[这个页面](https://cn.opensuse.org/%E5%AE%89%E8%A3%85 "安装openSUSE")。
 

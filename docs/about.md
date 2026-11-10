@@ -113,9 +113,9 @@ $$
 &emsp;&emsp;只要你的页面不过分违反公序良俗, 都请不要犹豫地通过上面的联系方式与我进行讨论呐.  
 &emsp;&emsp;本站的信息:  
 &emsp;&emsp;&emsp;&emsp;**名称**: Yuki Nix(禰夕・有希)  
-&emsp;&emsp;&emsp;&emsp;**地址**: https://www.nixyuki.com  
+&emsp;&emsp;&emsp;&emsp;**地址**: https://www.yuki.observer  
 &emsp;&emsp;&emsp;&emsp;**描述**(如果需要): 追问概念的精确解.  
-&emsp;&emsp;&emsp;&emsp;**徽记**(如果需要): https://www.nixyuki.com/include/logo_w.jpg  
+&emsp;&emsp;&emsp;&emsp;**徽记**(如果需要): https://www.yuki.observer/include/logo_w.jpg  
 &emsp;&emsp;&emsp;&emsp;**描述**(如你需要英文版本): In pursuit of the precise resolution of concepts.  
 
 &emsp;&emsp;顺颂  
