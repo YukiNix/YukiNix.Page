@@ -1,12 +1,19 @@
 ---
 layout: post
-title: 投资计算器
+title: 投机计算器
 date: 2024-04-05 T0:00:00 +08:00
 categories: posts
 ---
 
 {% include JavaScripts.html %}
-
+<h5><center>
+一・十・百・千・・<strong>变得轻松</strong><br>
+一万・・十万・・・<strong>陷入疯狂</strong><br>
+百万・・千万・・・<strong>无法回头</strong><br>
+亿・兆・京・垓・<strong>保证金不足</strong><br>
+<strong>追加保证金？＝＞Ｚｅｒｏ。</strong>
+<strong><p align="right">ーー改编自『FX戦士くるみちゃん』</p></strong>
+</center></h5>
 <div>
     <label class="ICAlbl" for="ICAexchange">Data source:</label>
     <select id="ICAexchange">
