@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 投机计算器
+title: 禰夕百元(投机计算器)
 date: 2024-04-05 T0:00:00 +08:00
 categories: posts
 ---
